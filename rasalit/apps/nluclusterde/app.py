@@ -5,6 +5,7 @@ from pkg_resources import resource_filename
 
 import streamlit as st
 from whatlies.language import CountVectorLanguage
+from whatlies.language import HFTransformersLanguage
 from whatlies.transformers import Pca, Umap
 from whatlies import EmbeddingSet, Embedding
 
@@ -12,25 +13,25 @@ import sentencepiece as spm
 import tensorflow as tf
 import tensorflow_hub as hub
 
-import tensorflow.compat.v1 as tf  # noqa: F811
+# import tensorflow.compat.v1 as tf  # noqa: F811
 
-tf.disable_v2_behavior()
+# tf.disable_v2_behavior()
 
-with tf.Session() as sess:
-    module = hub.Module("https://tfhub.dev/google/universal-sentence-encoder-lite/1")
-    spm_path = sess.run(module(signature="spm_path"))
+# with tf.Session() as sess:
+#     module = hub.Module("https://tfhub.dev/google/universal-sentence-encoder-lite/1")
+#     spm_path = sess.run(module(signature="spm_path"))
+#
+# sp = spm.SentencePieceProcessor()
+# sp.Load(spm_path)
 
-sp = spm.SentencePieceProcessor()
-sp.Load(spm_path)
-
-input_placeholder = tf.sparse_placeholder(tf.int64, shape=[None, None])
-encodings = module(
-    inputs=dict(
-        values=input_placeholder.values,
-        indices=input_placeholder.indices,
-        dense_shape=input_placeholder.dense_shape,
-    )
-)
+# input_placeholder = tf.sparse_placeholder(tf.int64, shape=[None, None])
+# encodings = module(
+#     inputs=dict(
+#         values=input_placeholder.values,
+#         indices=input_placeholder.indices,
+#         dense_shape=input_placeholder.dense_shape,
+#     )
+# )
 
 
 def process_to_IDs_in_sparse_format(sp, sentences):
@@ -42,21 +43,21 @@ def process_to_IDs_in_sparse_format(sp, sentences):
     return values, indices, dense_shape
 
 
-def calculate_embeddings(messages, encodings):
-    values, indices, dense_shape = process_to_IDs_in_sparse_format(sp, messages)
-
-    with tf.Session() as session:
-        session.run([tf.global_variables_initializer(), tf.tables_initializer()])
-        message_embeddings = session.run(
-            encodings,
-            feed_dict={
-                input_placeholder.values: values,
-                input_placeholder.indices: indices,
-                input_placeholder.dense_shape: dense_shape,
-            },
-        )
-
-    return message_embeddings
+# def calculate_embeddings(messages, encodings):
+#     values, indices, dense_shape = process_to_IDs_in_sparse_format(sp, messages)
+#
+#     with tf.Session() as session:
+#         session.run([tf.global_variables_initializer(), tf.tables_initializer()])
+#         message_embeddings = session.run(
+#             encodings,
+#             feed_dict={
+#                 input_placeholder.values: values,
+#                 input_placeholder.indices: indices,
+#                 input_placeholder.dense_shape: dense_shape,
+#             },
+#         )
+#
+#     return message_embeddings
 
 
 st.sidebar.markdown("Made with love over at [Rasa](https://rasa.com/).")
@@ -78,8 +79,10 @@ else:
     ]
 
 method = st.sidebar.selectbox(
-    "Select Embedding Method", ["Lite Sentence Encoding", "CountVector SVD"]
+    "Select Embedding Method", ["HF Transformer", "Lite Sentence Encoding", "CountVector SVD"]
 )
+
+
 if method == "CountVector SVD":
     n_svd = st.sidebar.slider(
         "Number of SVD components", min_value=2, max_value=100, step=1
@@ -115,13 +118,16 @@ st.markdown(
 if method == "CountVector SVD":
     lang = CountVectorLanguage(n_svd, ngram_range=(min_ngram, max_ngram))
     embset = lang[texts]
-if method == "Lite Sentence Encoding":
-    embset = EmbeddingSet(
-        *[
-            Embedding(t, v)
-            for t, v in zip(texts, calculate_embeddings(texts, encodings=encodings))
-        ]
-    )
+# if method == "Lite Sentence Encoding":
+#     embset = EmbeddingSet(
+#         *[
+#             Embedding(t, v)
+#             for t, v in zip(texts, calculate_embeddings(texts, encodings=encodings))
+#         ]
+#     )
+if method == "HF Transformer":
+    lang = HFTransformersLanguage('dbmdz/bert-base-german-uncased')
+    embset = lang[texts]
 
 p = (
     embset.transform(reduction)
