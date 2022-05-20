@@ -82,6 +82,8 @@ method = st.sidebar.selectbox(
     "Select Embedding Method", ["HF Transformer", "Lite Sentence Encoding", "CountVector SVD"]
 )
 
+if method == "HF Transformer":
+    model = st.sidebar.selectbox("HF Model", ['dbmdz/bert-base-german-uncased', 'T-Systems-onsite/cross-en-de-roberta-sentence-transformer'])
 
 if method == "CountVector SVD":
     n_svd = st.sidebar.slider(
@@ -126,13 +128,15 @@ if method == "CountVector SVD":
 #         ]
 #     )
 if method == "HF Transformer":
-    lang = HFTransformersLanguage('dbmdz/bert-base-german-uncased')
+
+    lang = HFTransformersLanguage(model)
     embset = lang[texts]
+
 
 p = (
     embset.transform(reduction)
     .plot_interactive(annot=False)
-    .properties(width=500, height=500, title="")
+    .properties(width=600, height=600, title="")
 )
 
 st.write(p)
