@@ -2,13 +2,12 @@ from setuptools import setup, find_packages
 from rasalit import __version__
 
 base_packages = [
-    "rasa>=2.0.0,<3.0.0",
+    "rasa>=2.4.0,<3.0.0",
     "streamlit>=0.57.3",
     "pyyaml>=5.3.1",
     "pandas>=1.0.3",
     "altair>=4.1.0",
     "typer>=0.3.0",
-    "rasa>=2.4",
     "spacy>=2.3.2",
     "tensorflow>=2.3.1",
     "nlpaug>=1.1.2",
