@@ -85,10 +85,9 @@ method = st.sidebar.selectbox(
 if method == "HF Transformer":
     model = st.sidebar.selectbox("HF Model", 
     ['dbmdz/bert-base-german-uncased', 
-   # 'T-Systems-onsite/cross-en-de-roberta-sentence-transformer', 
+    'T-Systems-onsite/bert-german-dbmdz-uncased-sentence-stsb', 
     'setu4993/smaller-LaBSE', 
-    'Geotrend/bert-base-de-cased',
-    'T-Systems-onsite/german-roberta-sentence-transformer-v2'])
+    'Geotrend/bert-base-de-cased'])
 
 if method == "CountVector SVD":
     n_svd = st.sidebar.slider(
