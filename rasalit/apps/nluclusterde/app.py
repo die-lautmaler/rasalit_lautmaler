@@ -65,7 +65,7 @@ uploaded = st.sidebar.file_uploader(
     "Upload a `.txt` file for clustering. Each utterance should appear on a new line."
 )
 if not uploaded:
-    filepath = resource_filename("rasalit", os.path.join("data", "nlu.md"))
+    filepath = resource_filename("rasalit", os.path.join("data", "porting_how.txt"))
     txt = pathlib.Path(filepath).read_text()
     texts = list(set([t for t in txt.split("\n") if len(t) > 0]))
 else:
@@ -83,7 +83,12 @@ method = st.sidebar.selectbox(
 )
 
 if method == "HF Transformer":
-    model = st.sidebar.selectbox("HF Model", ['dbmdz/bert-base-german-uncased', 'T-Systems-onsite/cross-en-de-roberta-sentence-transformer', 'setu4993/LaBSE'])
+    model = st.sidebar.selectbox("HF Model", 
+    ['dbmdz/bert-base-german-uncased', 
+   # 'T-Systems-onsite/cross-en-de-roberta-sentence-transformer', 
+    'setu4993/smaller-LaBSE', 
+    'Geotrend/bert-base-de-cased',
+    'T-Systems-onsite/german-roberta-sentence-transformer-v2'])
 
 if method == "CountVector SVD":
     n_svd = st.sidebar.slider(
