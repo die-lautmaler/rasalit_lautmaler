@@ -6,8 +6,11 @@ from pkg_resources import resource_filename
 import streamlit as st
 from whatlies.language import CountVectorLanguage
 from whatlies.language import HFTransformersLanguage
+from whatlies.language import GensimLanguage
+from whatlies.language import SpacyLanguage
 from whatlies.transformers import Pca, Umap
 from whatlies import EmbeddingSet, Embedding
+from gensim.models import Word2Vec
 
 import sentencepiece as spm
 import tensorflow as tf
@@ -61,9 +64,12 @@ def process_to_IDs_in_sparse_format(sp, sentences):
 
 
 st.sidebar.markdown("Made with love over at [Rasa](https://rasa.com/).")
+st.sidebar.markdown("*watch out, Gensim doesn't work with uploaded file*")
 uploaded = st.sidebar.file_uploader(
     "Upload a `.txt` file for clustering. Each utterance should appear on a new line."
 )
+
+
 if not uploaded:
     filepath = resource_filename("rasalit", os.path.join("data", "porting_how.txt"))
     txt = pathlib.Path(filepath).read_text()
@@ -79,15 +85,14 @@ else:
     ]
 
 method = st.sidebar.selectbox(
-    "Select Embedding Method", ["HF Transformer", "Lite Sentence Encoding", "CountVector SVD"]
+    "Select Embedding Method", ["spaCy","Gensim", "HF Transformer", "Lite Sentence Encoding", "CountVector SVD"]
 )
 
 if method == "HF Transformer":
     model = st.sidebar.selectbox("HF Model", 
     ['dbmdz/bert-base-german-uncased', 
     'T-Systems-onsite/bert-german-dbmdz-uncased-sentence-stsb', 
-    'setu4993/smaller-LaBSE', 
-    'Geotrend/bert-base-de-cased'])
+    'setu4993/smaller-LaBSE'])
 
 if method == "CountVector SVD":
     n_svd = st.sidebar.slider(
@@ -96,6 +101,23 @@ if method == "CountVector SVD":
     min_ngram, max_ngram = st.sidebar.slider(
         "Range of ngrams", min_value=1, max_value=5, step=1, value=(2, 3)
     )
+
+if method == "Gensim":
+   size = st.sidebar.slider(
+       "Vector Size", min_value = 10, max_value = 100, step = 1, value = 10
+   )
+   window = st.sidebar.slider(
+       "Window Size", min_value = 1, max_value = 5, step = 1, value = 5
+   )
+   min_count = st.sidebar.slider(
+       "Minimum Total Frequency", min_value = 1, max_value = 5, value = 1
+   )
+
+
+if method == "spaCy":
+    model = st.sidebar.selectbox("spaCy Model", 
+    ['de_core_news_lg'])
+
 
 reduction_method = st.sidebar.selectbox("Reduction Method", ("Umap", "Pca"))
 if reduction_method == "Umap":
@@ -106,7 +128,7 @@ if reduction_method == "Umap":
         "Minimum Distance for UMAP",
         min_value=0.01,
         max_value=0.99,
-        value=0.8,
+        value=0.1,
         step=0.01,
     )
     reduction = Umap(2, n_neighbors=n_neighbors, min_dist=min_dist)
@@ -132,10 +154,18 @@ if method == "CountVector SVD":
 #         ]
 #     )
 if method == "HF Transformer":
-
     lang = HFTransformersLanguage(model)
     embset = lang[texts]
 
+if method == "Gensim":
+    model = Word2Vec(corpus_file=filepath, size=size, window=window, min_count=min_count, workers=4)
+    model.wv.save("wordvectors.kv")
+    lang = GensimLanguage("wordvectors.kv")
+    embset = lang[texts]
+
+if method == "spaCy":
+    lang = SpacyLanguage(model)
+    embset = lang[texts]
 
 p = (
     embset.transform(reduction)
