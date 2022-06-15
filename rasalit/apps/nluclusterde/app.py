@@ -48,7 +48,7 @@ def process_to_IDs_in_sparse_format(sp, sentences):
 
 # def calculate_embeddings(messages, encodings):
 #     values, indices, dense_shape = process_to_IDs_in_sparse_format(sp, messages)
-#
+
 #     with tf.Session() as session:
 #         session.run([tf.global_variables_initializer(), tf.tables_initializer()])
 #         message_embeddings = session.run(
@@ -59,7 +59,7 @@ def process_to_IDs_in_sparse_format(sp, sentences):
 #                 input_placeholder.dense_shape: dense_shape,
 #             },
 #         )
-#
+
 #     return message_embeddings
 
 
@@ -71,7 +71,8 @@ uploaded = st.sidebar.file_uploader(
 
 
 if not uploaded:
-    filepath = resource_filename("rasalit", os.path.join("data", "porting_how.txt"))
+    #filepath = resource_filename("rasalit", os.path.join("data", "porting_how.txt"))
+    filepath = "rasalit/data/default.txt"
     txt = pathlib.Path(filepath).read_text()
     texts = list(set([t for t in txt.split("\n") if len(t) > 0]))
 else:
@@ -84,8 +85,27 @@ else:
         if len(t) > 0 and t[0] != "#"
     ]
 
+# if the file contains <phrase;intent>
+intent = None
+if ";" in texts[0]:
+    intent = True
+    phrases=[]
+    labels=[]
+    for line in texts:
+        phrase = line.split(';')[0]
+        label = line.split(';')[1]
+        label = label.rstrip()
+        phrases.append(phrase)
+        labels.append(label)
+    texts = phrases
+
+
 method = st.sidebar.selectbox(
-    "Select Embedding Method", ["spaCy","Gensim", "HF Transformer", "Lite Sentence Encoding", "CountVector SVD"]
+    "Select Embedding Method", ["spaCy",
+    "Gensim", 
+    "HF Transformer", 
+    #"Lite Sentence Encoding",
+    "CountVector SVD"]
 )
 
 if method == "HF Transformer":
@@ -146,6 +166,7 @@ st.markdown(
 if method == "CountVector SVD":
     lang = CountVectorLanguage(n_svd, ngram_range=(min_ngram, max_ngram))
     embset = lang[texts]
+
 # if method == "Lite Sentence Encoding":
 #     embset = EmbeddingSet(
 #         *[
@@ -153,6 +174,7 @@ if method == "CountVector SVD":
 #             for t, v in zip(texts, calculate_embeddings(texts, encodings=encodings))
 #         ]
 #     )
+
 if method == "HF Transformer":
     lang = HFTransformersLanguage(model)
     embset = lang[texts]
@@ -166,6 +188,15 @@ if method == "Gensim":
 if method == "spaCy":
     lang = SpacyLanguage(model)
     embset = lang[texts]
+
+# if the file contains <phrase;intent>
+if intent == True:
+    i = 0
+    for e in embset:
+        e.name = texts[i]
+        e.orig = labels[i]
+        i+=1
+
 
 p = (
     embset.transform(reduction)
