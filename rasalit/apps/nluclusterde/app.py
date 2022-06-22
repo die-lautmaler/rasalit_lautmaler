@@ -64,7 +64,7 @@ def process_to_IDs_in_sparse_format(sp, sentences):
 
 
 st.sidebar.markdown("Made with love over at [Rasa](https://rasa.com/).")
-st.sidebar.markdown("*watch out, Gensim doesn't work with uploaded file*")
+st.sidebar.markdown("*watch out, Gensim does NOT work with uploaded file*")
 uploaded = st.sidebar.file_uploader(
     "Upload a `.txt` file for clustering. Each utterance should appear on a new line."
 )
@@ -156,12 +156,12 @@ else:
     reduction = Pca(2)
 
 st.markdown("# Simple Text Clustering")
-st.markdown(
-    "Let's say you've gotten a lot of feedback from clients on different channels. You might like to be able to distill main topics and get an overview. It might even inspire some intents that will be used in a virtual assistant!"
-)
-st.markdown(
-    "This tool will help you discover them. This app will attempt to cluster whatever text you give it. The chart will try to clump text together and you can explore underlying patterns."
-)
+# st.markdown(
+#     "Let's say you've gotten a lot of feedback from clients on different channels. You might like to be able to distill main topics and get an overview. It might even inspire some intents that will be used in a virtual assistant!"
+# )
+# st.markdown(
+#     "This tool will help you discover them. This app will attempt to cluster whatever text you give it. The chart will try to clump text together and you can explore underlying patterns."
+# )
 
 if method == "CountVector SVD":
     lang = CountVectorLanguage(n_svd, ngram_range=(min_ngram, max_ngram))
@@ -189,20 +189,22 @@ if method == "spaCy":
     lang = SpacyLanguage(model)
     embset = lang[texts]
 
-# if the file contains <phrase;intent>
+# if the file contains both <phrase;intent> 
 if intent == True:
     i = 0
     for e in embset:
         e.name = texts[i]
         e.orig = labels[i]
         i+=1
+    embset = embset.add_property('intent', lambda d: d.orig)
 
 
 p = (
     embset.transform(reduction)
-    .plot_interactive(annot=False)
-    .properties(width=600, height=600, title="")
+    .plot_interactive(annot=False, color = 'intent')
+    .properties(width=1200, height=750, title="")
 )
+
 
 st.write(p)
 
