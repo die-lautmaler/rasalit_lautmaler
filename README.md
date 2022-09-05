@@ -1,4 +1,4 @@
-> **Note!** The code for this project is meant for Rasa Open Source 2.x. 
+ > **Note!** The code for this project is meant for Rasa Open Source 2.x. 
 
 <img src="docs/logo.png" width=300 align="right">
 
