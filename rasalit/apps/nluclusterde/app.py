@@ -111,7 +111,7 @@ method = st.sidebar.selectbox(
 if method == "HF Transformer":
     model = st.sidebar.selectbox("HF Model", 
     ['dbmdz/bert-base-german-uncased', 
-    'T-Systems-onsite/bert-german-dbmdz-uncased-sentence-stsb', 
+    'T-Systems-onsite/cross-en-de-roberta-sentence-transformer', 
     'setu4993/smaller-LaBSE'])
 
 if method == "CountVector SVD":
@@ -202,7 +202,7 @@ if intent == True:
 p = (
     embset.transform(reduction)
     .plot_interactive(annot=False, color = 'intent')
-    .properties(width=1200, height=750, title="")
+    .properties(width=1000, height=700, title="")
 )
 
 
