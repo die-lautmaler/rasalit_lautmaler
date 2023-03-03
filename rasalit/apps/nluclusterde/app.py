@@ -202,7 +202,7 @@ if intent == True:
 p = (
     embset.transform(reduction)
     .plot_interactive(annot=False, color = 'intent')
-    .properties(width=1200, height=750, title="")
+    .properties(width=1500, height=1500, title="")
 )
 
 
