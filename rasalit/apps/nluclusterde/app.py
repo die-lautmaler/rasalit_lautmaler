@@ -1,7 +1,5 @@
-import os
 import pathlib
 from io import StringIO
-from pkg_resources import resource_filename
 
 import streamlit as st
 from whatlies.language import CountVectorLanguage
@@ -60,18 +58,26 @@ def process_to_IDs_in_sparse_format(sp, sentences):
 #             },
 #         )
 
+
 #     return message_embeddings
+@st.cache_data()
+def load_hf_model(modelname, texts):
+    lang = HFTransformersLanguage(model)
+    embset = lang[texts]
+    return embset
 
 
 st.sidebar.markdown("Made with love over at [Rasa](https://rasa.com/).")
 st.sidebar.markdown("*watch out, Gensim does NOT work with uploaded file*")
 uploaded = st.sidebar.file_uploader(
-    "Upload a `.txt` file for clustering. Each utterance should appear on a new line."
+    "Upload a file",
+    type=["txt", "csv", "json"],
+    help="you can upload a .txt, csv or json file",
 )
 
 
 if not uploaded:
-    #filepath = resource_filename("rasalit", os.path.join("data", "porting_how.txt"))
+    # filepath = resource_filename("rasalit", os.path.join("data", "porting_how.txt"))
     filepath = "rasalit/data/default.txt"
     txt = pathlib.Path(filepath).read_text()
     texts = list(set([t for t in txt.split("\n") if len(t) > 0]))
@@ -89,11 +95,11 @@ else:
 intent = None
 if ";" in texts[0]:
     intent = True
-    phrases=[]
-    labels=[]
+    phrases = []
+    labels = []
     for line in texts:
-        phrase = line.split(';')[0]
-        label = line.split(';')[1]
+        phrase = line.split(";")[0]
+        label = line.split(";")[1]
         label = label.rstrip()
         phrases.append(phrase)
         labels.append(label)
@@ -101,18 +107,26 @@ if ";" in texts[0]:
 
 
 method = st.sidebar.selectbox(
-    "Select Embedding Method", ["spaCy",
-    "Gensim", 
-    "HF Transformer", 
-    #"Lite Sentence Encoding",
-    "CountVector SVD"]
+    "Select Embedding Method",
+    [
+        "spaCy",
+        "Gensim",
+        "HF Transformer",
+        # "Lite Sentence Encoding",
+        "CountVector SVD",
+    ],
 )
 
 if method == "HF Transformer":
-    model = st.sidebar.selectbox("HF Model", 
-    ['dbmdz/bert-base-german-uncased', 
-    'T-Systems-onsite/cross-en-de-roberta-sentence-transformer',
-    'setu4993/smaller-LaBSE'])
+    model = st.sidebar.selectbox(
+        "HF Model",
+        [
+            "dbmdz/german-gpt2",
+            "dbmdz/bert-base-german-uncased",
+            "T-Systems-onsite/cross-en-de-roberta-sentence-transformer",
+            "setu4993/smaller-LaBSE",
+        ],
+    )
 
 if method == "CountVector SVD":
     n_svd = st.sidebar.slider(
@@ -123,20 +137,17 @@ if method == "CountVector SVD":
     )
 
 if method == "Gensim":
-   size = st.sidebar.slider(
-       "Vector Size", min_value = 10, max_value = 100, step = 1, value = 10
-   )
-   window = st.sidebar.slider(
-       "Window Size", min_value = 1, max_value = 5, step = 1, value = 5
-   )
-   min_count = st.sidebar.slider(
-       "Minimum Total Frequency", min_value = 1, max_value = 5, value = 1
-   )
+    size = st.sidebar.slider(
+        "Vector Size", min_value=10, max_value=100, step=1, value=10
+    )
+    window = st.sidebar.slider("Window Size", min_value=1, max_value=5, step=1, value=5)
+    min_count = st.sidebar.slider(
+        "Minimum Total Frequency", min_value=1, max_value=5, value=1
+    )
 
 
 if method == "spaCy":
-    model = st.sidebar.selectbox("spaCy Model", 
-    ['de_core_news_lg'])
+    model = st.sidebar.selectbox("spaCy Model", ["de_core_news_lg"])
 
 
 reduction_method = st.sidebar.selectbox("Reduction Method", ("Umap", "Pca"))
@@ -176,11 +187,14 @@ if method == "CountVector SVD":
 #     )
 
 if method == "HF Transformer":
-    lang = HFTransformersLanguage(model)
-    embset = lang[texts]
+    # lang = load_hf_model(model, texts)
+    # embset = lang[texts]
+    embset = load_hf_model(model, texts)
 
 if method == "Gensim":
-    model = Word2Vec(corpus_file=filepath, size=size, window=window, min_count=min_count, workers=4)
+    model = Word2Vec(
+        corpus_file=filepath, size=size, window=window, min_count=min_count, workers=4
+    )
     model.wv.save("wordvectors.kv")
     lang = GensimLanguage("wordvectors.kv")
     embset = lang[texts]
@@ -189,19 +203,19 @@ if method == "spaCy":
     lang = SpacyLanguage(model)
     embset = lang[texts]
 
-# if the file contains both <phrase;intent> 
+# if the file contains both <phrase;intent>
 if intent == True:
     i = 0
     for e in embset:
         e.name = texts[i]
         e.orig = labels[i]
-        i+=1
-    embset = embset.add_property('intent', lambda d: d.orig)
+        i += 1
+    embset = embset.add_property("intent", lambda d: d.orig)
 
 
 p = (
     embset.transform(reduction)
-    .plot_interactive(annot=False, color = 'intent')
+    .plot_interactive(annot=False, color="intent")
     .properties(width=1500, height=1500, title="")
 )
 
