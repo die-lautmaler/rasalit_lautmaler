@@ -9,7 +9,7 @@ base_packages = [
     "altair>=4.1.0",
     "typer>=0.3.0",
     "spacy>=2.3.2",
-    "tensorflow>=2.3.1",
+    "tensorflow>=2.6.2",
     "nlpaug>=1.1.2",
     "whatlies[umap]",
     "whatlies[transformers]"
