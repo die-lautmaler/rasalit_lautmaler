@@ -231,6 +231,8 @@ if n_components < 2:
         .plot_interactive(annot=False, color="intent")
         .properties(width=1500, height=1500, title="")
     )
+    st.write(p)
+
 else:
     p = (
 
@@ -238,9 +240,9 @@ else:
         .plot_interactive_matrix(annot=False)
         .properties(width=1500, height=1500, title="")
     )
+    st.write(p)
 
 
-st.write(p)
 
 st.markdown(
     "While the tool helps you in discovering clusters, it doesn't do labelling (yet). We do offer a [jupyter notebook](https://github.com/RasaHQ/rasalit/tree/master/notebooks/bulk-labelling) that might help out though."
