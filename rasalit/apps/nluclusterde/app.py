@@ -154,6 +154,7 @@ if method == "spaCy":
     model = st.sidebar.selectbox("spaCy Model", ["de_core_news_lg"])
 
 
+n_components = 2
 reduction_method = st.sidebar.selectbox("Reduction Method", ("Umap", "Pca"))
 if reduction_method == "Umap":
     n_components = st.sidebar.slider(
@@ -224,11 +225,19 @@ if intent == True:
     embset = embset.add_property("intent", lambda d: d.orig)
 
 
-p = (
-    embset.transform(reduction)
-    .plot_interactive(annot=False, color="intent")
-    .properties(width=1500, height=1500, title="")
-)
+if n_components < 2:
+    p = (
+        embset.transform(reduction)
+        .plot_interactive(annot=False, color="intent")
+        .properties(width=1500, height=1500, title="")
+    )
+else:
+    p = (
+
+        embset.transform(reduction)
+        .plot_interactive_matrix(annot=False, color="intent")
+        .properties(width=1500, height=1500, title="")
+    )
 
 
 st.write(p)
