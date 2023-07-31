@@ -225,7 +225,7 @@ if intent == True:
     embset = embset.add_property("intent", lambda d: d.orig)
 
 
-if n_components < 2:
+if n_components <= 2:
     p = (
         embset.transform(reduction)
         .plot_interactive(annot=False, color="intent")
@@ -235,9 +235,8 @@ if n_components < 2:
 
 else:
     p = (
-
         embset.transform(reduction)
-        .plot_interactive_matrix(annot=False)
+        .plot_interactive_matrix(0,1,2,annot=False)
         .properties(width=1500, height=1500, title="")
     )
     st.write(p)
