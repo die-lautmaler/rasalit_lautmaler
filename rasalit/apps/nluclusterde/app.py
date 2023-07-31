@@ -63,7 +63,7 @@ def process_to_IDs_in_sparse_format(sp, sentences):
 #     return message_embeddings
 @st.cache_data()
 def load_hf_model(modelname, texts):
-    print("loading model from", modelname)
+    print("loading model from", modelname, "in dir", os.getcwd())
     print(os.path.exists(modelname))
     lang = HFTransformersLanguage(model)
     embset = lang[texts]
