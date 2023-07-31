@@ -156,6 +156,9 @@ if method == "spaCy":
 
 reduction_method = st.sidebar.selectbox("Reduction Method", ("Umap", "Pca"))
 if reduction_method == "Umap":
+    n_components = st.sidebar.slider(
+        "Number of components", min_value=2, max_value=5, step=1
+    )
     n_neighbors = st.sidebar.slider(
         "Number of UMAP neighbors", min_value=1, max_value=100, value=15, step=1
     )
@@ -166,7 +169,10 @@ if reduction_method == "Umap":
         value=0.1,
         step=0.01,
     )
-    reduction = Umap(2, n_neighbors=n_neighbors, min_dist=min_dist)
+
+    reduction = Umap(
+        n_components=n_components, n_neighbors=n_neighbors, min_dist=min_dist
+    )
 else:
     reduction = Pca(2)
 
