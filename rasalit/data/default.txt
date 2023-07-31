@@ -1,0 +1,1085 @@
+neuer standort;account_start_stuff
+standort hinzufügen;account_start_stuff
+einen neuen benutzer hinzufügen;account_start_stuff
+externes telefon hinzufügen;account_start_stuff
+gerät hinzufügen;account_start_stuff
+ich kann kein neues mobilgerät hinzufügen;account_start_stuff
+ich kann kein telefon-gerät hinzufügen;account_start_stuff
+kann keine esim hinzufügen;account_start_stuff
+mobilfunknummer hinzufügen;account_start_stuff
+neue voicemail hinzufügen nicht möglich;account_start_stuff
+neues voip telefon hinzufügen;account_start_stuff
+softphone hinzufügen;account_start_stuff
+telefon ohne benutzer in gruppe hinzufügen;account_start_stuff
+voip telefon hinzufügen;account_start_stuff
+wie kann ich eine grupe einrichten;account_start_stuff
+wo finde ich gerät hinzufügen;account_start_stuff
+bräuchte ne neue schöne rufnummer;account_start_stuff
+dann bekomme ich ein neue nummer;account_start_stuff
+gibt es eine möglichkeit eine französische rufnummer zu buchen;account_start_stuff
+guten tag besteht noch die möglichkeit virtuelle ortsrufnummern festnetznummern zu buchen wie früher;account_start_stuff
+hallo ich möchte neue rufnummer buchen;account_start_stuff
+hallo ich würde gern eine zweite faxnummer einrichten ist das möglich;account_start_stuff
+hallo ist es auch möglich eine 0800 nummer zu buchen;account_start_stuff
+hallo ist es möglich eine neue nummer zu bekommen;account_start_stuff
+hallo ist es möglich eine österreichische nummer zu buchen oder eine 0800 nummer;account_start_stuff
+hallo kann ich eine zweite mobilnummer haben;account_start_stuff
+hi ich brauche eine wiener festnetznummer;account_start_stuff
+ich benötige eine weitere rufnummer;account_start_stuff
+ich brauche 2 rufnummer mit anderer ortsvorwahl;account_start_stuff
+ich hätt gern eine neue handy nr;account_start_stuff
+ich kann keine mobilnummer buchen;account_start_stuff
+ich kann keine ortsrufnummer hinzubuchen;account_start_stuff
+ich möchte eine spezifische internationale rufnummer buchen;account_start_stuff
+ich möchte gerne 1 kostenlose ortrufnummer buchen ich bin doch bei sipagte starter;account_start_stuff
+ich möchte gerne noch eine nummer haben;account_start_stuff
+ich würde gerne ein voip leitung aktivieren;account_start_stuff
+ist es möglich eine österreichische nummer zu bekommen;account_start_stuff
+kann ich eine int rufnummer für nl buchen;account_start_stuff
+kann man bei euch auch handynummern buchen;account_start_stuff
+kann man bei ihnen eigentlich auch 0800 rufnummer nutzen / buchen gruß kim muster;account_start_stuff
+mehr handynummern;account_start_stuff
+mobilfunknummer bekommen;account_start_stuff
+mobilrufnummer buchen;account_start_stuff
+möchte zu neuem anschluss eine ortsnummer hinzufügen;account_start_stuff
+neue buchung 3er telefonnummer block;account_start_stuff
+neue handynummer erhalten;account_start_stuff
+neue rufnummer;account_start_stuff
+nummern hinzufügen;account_start_stuff
+ortsrufnummer buchen;account_start_stuff
+rufnummer aktivieren;account_start_stuff
+rufnummer buchen;account_start_stuff
+sprachkanäle buchen;account_start_stuff
+telefonnummern kaufen;account_start_stuff
+weitere nummer;account_start_stuff
+weitere ortsrufnummer;account_start_stuff
+wie bekomme ich eine kostenlose nummer;account_start_stuff
+wie bekomme ich eine neue ortsrufnummer;account_start_stuff
+wie bekomme ich festnetznummer;account_start_stuff
+wie buche ich rufnummern;account_start_stuff
+wie erhalte ich meine telefonnummer;account_start_stuff
+wie erstelle ich eine 2 nummer;account_start_stuff
+wie kann ich eine mobilfunkrufnummer hinzufügen;account_start_stuff
+wir benötigen 6 französische telefonummern;account_start_stuff
+wir benötigen dringend eine uk rufnummer;account_start_stuff
+wo kann ich den eine mobilfunknummer dazubuchen das free paket;account_start_stuff
+woher bekommen wir die mobilfunk-nr;account_start_stuff
+würde gerne rufnummern kaufen;account_start_stuff
+zusätzliche handynummer;account_start_stuff
+zusätzliche rufnummer;account_start_stuff
+neue adresse;account_start_stuff
+neue bankverbindung;account_start_stuff
+neue bankverbindung hinterlegen;account_start_stuff
+neue bankverbindung wird nicht akzeptiert;account_start_stuff
+neue kreditkarte;account_start_stuff
+neuer standort anderer name möglich;account_start_stuff
+hallo kann ich eine neue rufnummer bekommen wenn ich das möchte;account_start_stuff
+account aktivierung;account_start_stuff
+activation;account_start_stuff
+aktivierung;account_start_stuff
+konto aktivieren;account_start_stuff
+aktivieren sie das konto;account_start_stuff
+benötige den starcode;account_start_stuff
+benötige einen startcode;account_start_stuff
+brief bekommen mit verifizierungscode;account_start_stuff
+dazu brauche ich den startcode;account_start_stuff
+guten tag woher bekomme ich den startcode;account_start_stuff
+hallo wie bekomme ich den aktivierungscode;account_start_stuff
+hallo wo bekomme ich meinen aktivierungscode für den account her;account_start_stuff
+ich benötige den startcode;account_start_stuff
+ich benötige einen startcode;account_start_stuff
+ich brauche einen startcode;account_start_stuff
+ich möchte ein konto aktivieren;account_start_stuff
+ich will den startcode per haben bitte;account_start_stuff
+sip konto aktievierung;account_start_stuff
+startcode benötig;account_start_stuff
+wie bekomme ich den aktivierungscode;account_start_stuff
+wie kann ich meinen account aktivieren;account_start_stuff
+würde gerne mein konto aktivieren;account_start_stuff
+brauche einen neuen startcode;account_start_stuff
+guten tag ich würde gerne einen neuen startcode anfordern;account_start_stuff
+hallo ich benötige einen neuen startcode;account_start_stuff
+kann ich einen neuen startcode erhalten;account_start_stuff
+neu aktivieren;account_start_stuff
+neuen startcode;account_start_stuff
+neuen startcode anfordern;account_start_stuff
+neuen startcode beantragen;account_start_stuff
+neuer startcode;account_start_stuff
+verifizierung erneut starten;account_start_stuff
+wie bekomme ich einen neuen start code vielen dank;account_start_stuff
+wie erhalte ich einen neuen startcod;account_start_stuff
+wie kann ich meinen startcode noch einmal anfordern;account_start_stuff
+a51 einrichten;account_start_stuff
+app einrichten;account_start_stuff
+auerswald einrichten;account_start_stuff
+einrichtung der gegaste n870 ip pro;account_start_stuff
+einrichtung des sipgate an einem speedport w724v;account_start_stuff
+einrichtung ip-telefon;account_start_stuff
+einrichtung voip bei fritz box 7582 vp;account_start_stuff
+einrichtung zoiper;account_start_stuff
+einrichtung zoiper fone;account_start_stuff
+externes telefon einrichten;account_start_stuff
+fritz box einrichten;account_start_stuff
+fritzbox einrichten;account_start_stuff
+grandstream einrichten;account_start_stuff
+hallo wie kann ich ein 2. voiptelefon einrichten;account_start_stuff
+ich muss mein gerät neu einrichte;account_start_stuff
+linphone einrichten;account_start_stuff
+mobilgerät einrichten;account_start_stuff
+softphone einrichten;account_start_stuff
+soll auf einer smartwatch eingerichtet werden;account_start_stuff
+telefon einrichten;account_start_stuff
+voip iphone einrichten;account_start_stuff
+wie füge ich das softphone zu;account_start_stuff
+wie kann ich meine fritz box einrichten;account_start_stuff
+wie richte ich die fritz box ein;account_start_stuff
+wie richte ich mein handy ein;account_start_stuff
+voip-telefon hinzufügen;account_start_stuff
+weiteres telefon hinzufügen;account_start_stuff
+zusätzliches telefon mit gleicher rufnummer einrichten;account_start_stuff
+kontakt hinzufügen;account_start_stuff
+kontakte anlegen;account_start_stuff
+kontakte manuell anlegen;account_start_stuff
+neuer kontakt;account_start_stuff
+emailadresse fax hinzufügen;account_start_stuff
+crm integration buchen;account_start_stuff
+guten tag wie aktiviere bzw beauftrage ich die salesforce erweiterung;account_start_stuff
+anlegen von faxempfang;account_start_stuff
+einrichtung gruppenfax;account_start_stuff
+fax einrichten;account_start_stuff
+fax hinzubuchen für 3,95 €;account_start_stuff
+fax hinzufügen;account_start_stuff
+fax nr erhalten;account_start_stuff
+faxanschluß erstellen;account_start_stuff
+faxnummer buchen;account_start_stuff
+hallo ich habe eine frage kann ich eine fax-nummer bekommen;account_start_stuff
+hallo ich möchte das feature faxanschluss buchen;account_start_stuff
+hallo ich möchte einen faxanschluss buchen;account_start_stuff
+hallo ich möchte gerne computerfax über sipgate einrichten;account_start_stuff
+hallo liebes team ich möchte einen faxanschluss dazu buchen wie mache ich da;account_start_stuff
+hallo wie kann ich eine faxnummer buchen bzw einrichten;account_start_stuff
+hallo wie kann ich eine us fax nummer erstellen;account_start_stuff
+ich kann das feature fax-empfang nicht aktivieren;account_start_stuff
+ich möchte ein fax einrichten;account_start_stuff
+ich möchte einen faxanschluss einrichten;account_start_stuff
+ich möchte faxanschluss buchen- wo kann ich das buchen;account_start_stuff
+ich möchte mein fax einrichten;account_start_stuff
+web-faxanschluss einrichten;account_start_stuff
+webfax einrichten;account_start_stuff
+wie kann ich ein fax einrichten;account_start_stuff
+wie kann ich eine faxnummer einrichten;account_start_stuff
+wie richte ein fax für eine gruppe ein;account_start_stuff
+wie richte ich einen faxanschluss ein;account_start_stuff
+wie richtet man den faxdrucker ein;account_start_stuff
+wir richte ich einen faxanschluss ein;account_start_stuff
+wo kann ich das feature faxempfang buchen der feature store funktioniert nicht;account_start_stuff
+anrufweiterleitung einrichten;account_start_stuff
+einrichten einer rufweiterleitung;account_start_stuff
+hallo die funktion weiterleitung ist ausgeblendet wie aktiviere ich die denn;account_start_stuff
+hallo wie kann ich eine weiterleitung einrichten die felder sind bei mir grau;account_start_stuff
+hallo wie kann ich im sipgate basic portal eine weiterleitung einrichten;account_start_stuff
+hallo wo stelle ich die rufumleitung ein;account_start_stuff
+hallo wo stellt mann die rufumleitung ein;account_start_stuff
+hallo zusammen ist es möglich über das online portal eine weiterleitung einzurichten;account_start_stuff
+ich möchte eine anrufweiterleitung einrichten;account_start_stuff
+ich möchte eine rufumleitung einrichten;account_start_stuff
+ich möchte eine zeitlich begrenzte rufumleitung einrichten;account_start_stuff
+ich möchte gerne eine rufumleitung erstellen;account_start_stuff
+ich versuche hier die weiterleitung einzurichten aber irgendwie klappt das nicht;account_start_stuff
+ich will eine weierleitung einrichten;account_start_stuff
+ich würde gerne eine anrufverteilung einrichten;account_start_stuff
+kann ich eine rufumleitung einrichten;account_start_stuff
+kann ich eine sip weiterleitung einrichten;account_start_stuff
+kann ich eine umleitung auf mobilfunk einrichten;account_start_stuff
+kann ich einen rufweiterleitung einrichten;account_start_stuff
+kann ich weiterleitungen für meine rufnummer einrichten;account_start_stuff
+können beim basic-tarif weiterleitungen eingerichtet werden;account_start_stuff
+weiterleitung einrichten;account_start_stuff
+wie kann ich eine rufumleitung einrichten;account_start_stuff
+wie kann ich eine weiterleitung einrichten;account_start_stuff
+wie kannich eine weiterleitung einrichten;account_start_stuff
+wie richte ich eine rufweiterleitung ein;account_start_stuff
+wo kann ich eine rufumleitung einrichten;account_start_stuff
+ich würde gerne einen anrufbeantworter einrichten;account_start_stuff
+kann ich einen anrufbeantworter einrichten;account_start_stuff
+weiteren ab;account_start_stuff
+wie aktiviere ich den anrufbeantworter;account_start_stuff
+wie aktiviere ich die mailbox;account_start_stuff
+wie aktiviert man den anrufbeantworter;account_start_stuff
+wie kann ich den ab einrichten;account_start_stuff
+wie kann ich den anrufbeantworter buchen;account_start_stuff
+wie kann ich einen anrufbeantworter einrichten;account_start_stuff
+wie richte ich die mailbox ein;account_start_stuff
+wie schalte ich voicmail an;account_start_stuff
+wo schalte ich den ab ein;account_start_stuff
+wo wird der anrufbeantworter eingeschaltet;account_start_stuff
+hallo ich würde gerne das wartefeld einrichten;account_start_stuff
+wie kann ich ein wartefeld einfügen;account_start_stuff
+daten buchen;account_start_stuff
+datenflat buchen;account_start_stuff
+datenvolumen buchen;account_start_stuff
+hallo ich möchte gern minutenpakete buchen;account_start_stuff
+hallo kann ich mobile daten buchen;account_start_stuff
+ich brauche mehr datenvolumen;account_start_stuff
+ich möchte bitte daten buchen;account_start_stuff
+ich möchte bitte mehr datenvolumen buchen;account_start_stuff
+ich möchte bitte mehr mobile daten buchen;account_start_stuff
+ich möchte gerne mehr datensnacks buchen;account_start_stuff
+ich würde gerne datenvolumen buchen;account_start_stuff
+mobile daten buchen;account_start_stuff
+mobile daten einrichten;account_start_stuff
+wie kann ich datenkontingente buchen;account_start_stuff
+wie kann ich internet dazu buchen;account_start_stuff
+i message aktivierung;account_start_stuff
+bekomm ich eine echte simkarte;account_start_stuff
+bekomm ich von euch eine sim karte;account_start_stuff
+bekomme ich als neukunde eine neue sim karte;account_start_stuff
+bekomme ich auch eine normale simkarte fürs handy;account_start_stuff
+bekomme ich auch eine richtige sim karte;account_start_stuff
+bekomme ich auch eine sim karte;account_start_stuff
+bekomme ich dann eine sim kate;account_start_stuff
+bekomme ich die sim-karte von sipgate;account_start_stuff
+bekomme ich ein simkarte;account_start_stuff
+bekomme ich eine echte simkarte;account_start_stuff
+bekomme ich eine nano sim-karte;account_start_stuff
+bekomme ich eine plastik sim;account_start_stuff
+bekomme ich eine plastik simkarte;account_start_stuff
+bekomme ich eine plastik-sim-karte;account_start_stuff
+bekomme ich eine richtige sim karte;account_start_stuff
+bekomme ich eine sim card;account_start_stuff
+bekomme ich eine sim karte;account_start_stuff
+bekomme ich eine sim karte oder wie wird das gemacht;account_start_stuff
+bekomme ich eine simkarte;account_start_stuff
+bekomme ich such eine klassische sim kart;account_start_stuff
+bekommt man eine sim karte;account_start_stuff
+bekommt man eine simkarte;account_start_stuff
+bekommt man hier eine sim-karte;account_start_stuff
+benötige neue sim-karte;account_start_stuff
+benötige sim karte;account_start_stuff
+bestellung plastik sim karte;account_start_stuff
+bestellung plastik sim karte wie;account_start_stuff
+bieten sie auch plastik simkarten an;account_start_stuff
+brauche aber ein echte sim;account_start_stuff
+brauche eine sim karte;account_start_stuff
+e sim anfordern;account_start_stuff
+erhalte ich eine sim-karte;account_start_stuff
+ersatz sim bestellen;account_start_stuff
+es ist mir nicht möglich eine neue sim karte zu kaufen;account_start_stuff
+esim bekommen;account_start_stuff
+esim bestellen;account_start_stuff
+esim buchen;account_start_stuff
+esim hinzufügen;account_start_stuff
+esim kaufen;account_start_stuff
+esim neu;account_start_stuff
+free sim karte bestellen;account_start_stuff
+guten morgen wie kann ich eine neue esim erhalten;account_start_stuff
+guten tag ich habe einen sipgate account kann ich darüber eine esim kaufen;account_start_stuff
+guten tag ich möchte gern eine kostenlose sim-karte buchen wie geht das am besten;account_start_stuff
+guten tag wie kommen wir an sim karten von sipgate;account_start_stuff
+hallo - kann ich zusätzlich eine echte sim karte bestellen;account_start_stuff
+hallo bekomme ich noch eine sim karte oder wie funktioniert das;account_start_stuff
+hallo ich benötige eine esim;account_start_stuff
+hallo ich benötige eine neue sim karte;account_start_stuff
+hallo ich brauche eine physische sim karte;account_start_stuff
+hallo ich brauche eine sim;account_start_stuff
+hallo ich möchte eine esim bestellen;account_start_stuff
+hallo ich möchte eine sim-karte bestellen;account_start_stuff
+hallo ich möchte eine sim-karte freischalten;account_start_stuff
+hallo ich muss eine ersatzkarte bestellen;account_start_stuff
+hallo ich wollte ganz gerne ne esim anlegen wie geht das;account_start_stuff
+hallo ich wollte gerne fragen wie ich mir ihre sim karte bestellen kann;account_start_stuff
+hallo ich würde gerne eine sim karte bestellen;account_start_stuff
+hallo ich würde gerne eine sim-karte bestellen;account_start_stuff
+hallo ist es möglich eine physische sim-karte zu bekommen;account_start_stuff
+hallo ist es noch möglich neue sim-karten aus plastik zubestellen;account_start_stuff
+hallo kann ich eine plastik-sim bestellen;account_start_stuff
+hallo kann ich zu diesem account esim zu buchen;account_start_stuff
+hallo kann ich zu diesem anschluss eine esim erhalten;account_start_stuff
+hallo kann ich zum tarif auch eine sim karte aus plastik haben;account_start_stuff
+hallo liebes sipgate team würde gerne eine kostenlose sim karte bestellen mfg k muster;account_start_stuff
+hallo möchte eine sim karte;account_start_stuff
+hallo unswar wollte ich eine esim anfordern;account_start_stuff
+hallo warum kann ich zu meinem bestehend account nicht mobilfunk hinzu fügen/esim;account_start_stuff
+hallo wie bekomme ich ein plastik si;account_start_stuff
+hallo wie bekomme ich eine karte;account_start_stuff
+hallo wie bekomme ich eine plastik sim karte;account_start_stuff
+hallo wie bekomme ich zu meinem konto zusätzlich eine sim;account_start_stuff
+hallo wie bestelle ich eine esim;account_start_stuff
+hallo wie bestellt man eine sim;account_start_stuff
+hallo wie bzw wo beantrage ich eine sim-karte für das sipgate-konto;account_start_stuff
+hallo wie kann ich denn eine esim von simquadrat hinzubuchen;account_start_stuff
+hallo wie kann ich eine esim bestellen bzw einrichten ich finde leider keinen menüpunkt;account_start_stuff
+hallo wie kann ich eine sim-karte bestellen;account_start_stuff
+hallo wie kann ich eine simkarte bestellen;account_start_stuff
+hallo wie kann ich hier eine prepaid esim bekommen und einrichten;account_start_stuff
+hallo wie kann ich zu meinen free account ne esim bekommen;account_start_stuff
+hallo wie komme ich an eine esim;account_start_stuff
+hallo wir würde gerne sim karten bestellen bekommen aber immer ein fehlermeldung;account_start_stuff
+hallo wo kann ich eine esim anlegen;account_start_stuff
+hallo wo kann man denn die sim karte bestellen;account_start_stuff
+hallo woher bekomme ich die esim;account_start_stuff
+hallo zusammen ich dachte wir haben uns bei simquadrat angemeldet wir benötigen eine physische sim-karte;account_start_stuff
+hi ich brauche eine plastik sim;account_start_stuff
+hi ich habe ein sipgate basic konto wie kann ich hier einen esim tarif hinzufügen;account_start_stuff
+hi kann ich bei euch auch eine physische sim karte bekommen;account_start_stuff
+hi wie und wo kann ich denn eine esim bestellen;account_start_stuff
+ich benötige 1 sim karte;account_start_stuff
+ich benötige eine echte sim karte wie kann ich diese bestelle;account_start_stuff
+ich benötige eine echte simkarte;account_start_stuff
+ich benötige eine ersatz sim karte;account_start_stuff
+ich benötige eine esim;account_start_stuff
+ich benötige eine esim für mein iphone;account_start_stuff
+ich benötige eine esim für meine smartwatch;account_start_stuff
+ich benötige eine klassische sim karte;account_start_stuff
+ich benötige eine nano sim;account_start_stuff
+ich benötige eine nano-sim-karte wie bekomme ich die;account_start_stuff
+ich benötige eine neue e simkarte;account_start_stuff
+ich benötige eine neue sim karte;account_start_stuff
+ich benötige eine neue sim-karte;account_start_stuff
+ich benötige eine neue sim-karte nano-sim;account_start_stuff
+ich benötige eine sim karte;account_start_stuff
+ich benötige eine sim-karte;account_start_stuff
+ich brauche also eine physische sim-karte;account_start_stuff
+ich brauche eine e-sim;account_start_stuff
+ich brauche eine esim;account_start_stuff
+ich brauche eine handykarte von sipgate;account_start_stuff
+ich brauche eine karte;account_start_stuff
+ich brauche eine nano sim;account_start_stuff
+ich brauche eine nano sim card;account_start_stuff
+ich brauche eine nano sim karte;account_start_stuff
+ich brauche eine nano simkarte;account_start_stuff
+ich brauche eine neue sim karte;account_start_stuff
+ich brauche eine neue sim karte ich finde keinen menüpunkt;account_start_stuff
+ich brauche eine neue sim und zwar nano;account_start_stuff
+ich brauche eine neue simkarte;account_start_stuff
+ich brauche eine neues sim karte bitte;account_start_stuff
+ich brauche eine sim;account_start_stuff
+ich brauche eine sim karte;account_start_stuff
+ich brauche eine simkarte;account_start_stuff
+ich brauche nano sim;account_start_stuff
+ich brauche neue sim-karte;account_start_stuff
+ich brauche nur eine esim;account_start_stuff
+ich bräuchte noch eine traditionelle sim-karte;account_start_stuff
+ich habe eine sim-karte ausgewählt und auf weiter gedrückt wurde nun eine bestellt;account_start_stuff
+ich habe nicht mehr genug von den sim-karten ist es möglich noch eine zu bekommen;account_start_stuff
+ich hätte gerne eine esim;account_start_stuff
+ich hätte gerne eine sim karte bestellt;account_start_stuff
+ich kann es nicht finden wo ich die sim karte bestellen kann;account_start_stuff
+ich möchte aber eine sim karte;account_start_stuff
+ich möchte die kostenlose esim einrichten;account_start_stuff
+ich möchte die normale simkarte bestellen;account_start_stuff
+ich möchte die sim karte bestellen;account_start_stuff
+ich möchte eigentlich esim probieren wie bestellt man eine;account_start_stuff
+ich möchte ein esim dabei kaufen wie mache ich das;account_start_stuff
+ich möchte eine esim bestellen wie funktioniert das wärend ich eingelogged bin;account_start_stuff
+ich möchte eine esim hinzufügen;account_start_stuff
+ich möchte eine nano sim;account_start_stuff
+ich möchte eine neue sim karte;account_start_stuff
+ich möchte eine normale sim karte bestellen;account_start_stuff
+ich möchte eine physische sim;account_start_stuff
+ich möchte eine physische sim karte;account_start_stuff
+ich möchte eine sim anlegen;account_start_stuff
+ich möchte eine sim karte bestellen;account_start_stuff
+ich möchte eine sim karte mit homezone;account_start_stuff
+ich möchte eine sim-karte bestellen;account_start_stuff
+ich möchte eine smartwatch mit esim nutzen/anlegen;account_start_stuff
+ich möchte eine zweite sim bestellen;account_start_stuff
+ich möchte gerne eine esim zusätzlich buchen;account_start_stuff
+ich möchte gerne eine neue sim karten;account_start_stuff
+ich möchte gerne eine plastik sim-karte bestellen wie gehe ich dabei vor;account_start_stuff
+ich möchte gerne eine plastik sim-karte für diesen account;account_start_stuff
+ich möchte gerne zu meinem vertrag eine simkarte dazu bestellen;account_start_stuff
+ich möchte noch eine simkarte bestellen;account_start_stuff
+ich möchte sim karten bestellen;account_start_stuff
+ich möchte zu meinem sipgate basic eine esim hinzubuchen;account_start_stuff
+ich moechte zu meinem bestehenden basic account eine esim hinzufuegen;account_start_stuff
+ich weis nicht wie ich eine sim karte bestelle;account_start_stuff
+ich will eine nano sim bestellen;account_start_stuff
+ich will eine sim-karte bestellen;account_start_stuff
+ich wollte eine simkarte bestellen;account_start_stuff
+ich würde gern esim nutzen finde aber nicht wo ich das beantragen kann;account_start_stuff
+ich würde gerne eine esim beantragen;account_start_stuff
+ich würde gerne eine esim herunterladen;account_start_stuff
+ich würde gerne eine sim haben;account_start_stuff
+ich würde gerne eine sim-karte kaufen;account_start_stuff
+ich würde gerne eine simquadrat esim buchen wie mache ich das;account_start_stuff
+ich würde gerne meinen account um eine sim-karte ergänzen wie mache ich das;account_start_stuff
+ich würde gerne wissen ob ich mit meiner sipgate business xl eine esim gibts;account_start_stuff
+ich würde gerne zusätlich eine esim buchen;account_start_stuff
+ist es auch möglich eine plastik simkarte zu bekommen;account_start_stuff
+ist es moeglich eine e-sim fuer meinen starter tarif zu erhalten;account_start_stuff
+ist es möglich eine sim karte zu bekommen;account_start_stuff
+kann ich auch eine echte microsim karte bekommen;account_start_stuff
+kann ich auch eine normale sim karte bestellen;account_start_stuff
+kann ich auch eine physische sim-karte bestellen;account_start_stuff
+kann ich auch eine plastik-sim erhalten;account_start_stuff
+kann ich auch eine plastik-sim-karte bekommen;account_start_stuff
+kann ich auch eine sim karte bestellen;account_start_stuff
+kann ich auch eine simkarte haben;account_start_stuff
+kann ich bei ihnen eine esim bestellen;account_start_stuff
+kann ich bei ihnen simkarten bestellen;account_start_stuff
+kann ich bei simquadrat auch eine sim-karte erhalten;account_start_stuff
+kann ich die plastik sim auch sofort dazu bestellen;account_start_stuff
+kann ich eine esim nummer zu meinem konto hinzufügen;account_start_stuff
+kann ich eine micro sim bekommen;account_start_stuff
+kann ich eine plastik sim bekommen;account_start_stuff
+kann ich eine plastik-sim erhalten;account_start_stuff
+kann ich eine plastik-sim-karte bekommen;account_start_stuff
+kann ich eine sim karte bestellen;account_start_stuff
+kann ich eine sim-karte bestellen;account_start_stuff
+kann ich eine simkarte kaufen;account_start_stuff
+kann ich simkarte dazubestellen;account_start_stuff
+kann ich zu meinem account auch eine esim karte bekommen;account_start_stuff
+kann man anstatt der esim auch eine plastik sim karte bestellen;account_start_stuff
+kann man auch eine data sim-karte von ihnen kaufen;account_start_stuff
+kann man auch eine echte sim-karte bekommen;account_start_stuff
+kann man auch eine echte sim-karte erhalten;account_start_stuff
+kann man auch eine simkarte bestellen;account_start_stuff
+kann man bei simquadrat auch eine plastik sim bestellen;account_start_stuff
+kann man noch plastik sim karten von sipgate bestellen;account_start_stuff
+klassische sim bestellen;account_start_stuff
+könnte man auch eine plastik sim karte kriegen;account_start_stuff
+kriege ich eine plastik sim karte;account_start_stuff
+möchte eine sim karte bestellen plaste sim;account_start_stuff
+möchte gerne eine simkarte bestellen;account_start_stuff
+moechte karte bestellen;account_start_stuff
+moin wie kann ich diesem account eine prepaid esim hinzufügen danke;account_start_stuff
+nano-sim-karte bestellen;account_start_stuff
+nano-sim-karte bestellt;account_start_stuff
+neu sim bestellen;account_start_stuff
+neue esim;account_start_stuff
+neue esmim;account_start_stuff
+neue sim;account_start_stuff
+neue sim anfordern;account_start_stuff
+neue sim karte;account_start_stuff
+neue sim karte bestellen;account_start_stuff
+neue sim-karte bestellen finde ich niergendwo;account_start_stuff
+neue simkarte;account_start_stuff
+neue simkarte bestellen alte verloren;account_start_stuff
+neue simkarten;account_start_stuff
+neukunde braucht sim;account_start_stuff
+normale sim karte bestellen;account_start_stuff
+physische sim erhalten;account_start_stuff
+plastik sim-karte bestellen;account_start_stuff
+sim bestellen;account_start_stuff
+sim bestellung funktioniert nicht;account_start_stuff
+sim buchen;account_start_stuff
+sim karte bestellen;account_start_stuff
+sim karte kaufen;account_start_stuff
+sim-karte anfordern;account_start_stuff
+sim-karte bestellen;account_start_stuff
+simkarte bestellen;account_start_stuff
+simkarten auch für basic kunden zum kaufen geben;account_start_stuff
+simquadrat simkarte dazu buchen;account_start_stuff
+und bräuchte eine neue sim kart;account_start_stuff
+und wenn ich eine physische sim brauch;account_start_stuff
+und wie kann ich eine simkarte bestellen;account_start_stuff
+was mache ich wenn ich eine neue simkarte brauche;account_start_stuff
+was wenn ich eine echte sim karte brauche;account_start_stuff
+weitere sim karte;account_start_stuff
+wie bekomme ich die plastik sim karte;account_start_stuff
+wie bekomme ich die sim karte;account_start_stuff
+wie bekomme ich diese sim karte;account_start_stuff
+wie bekomme ich ein e-sim;account_start_stuff
+wie bekomme ich ein nano sim;account_start_stuff
+wie bekomme ich ein sim karte;account_start_stuff
+wie bekomme ich eine esim;account_start_stuff
+wie bekomme ich eine esim von euch;account_start_stuff
+wie bekomme ich eine kostenlose simkarte;account_start_stuff
+wie bekomme ich eine microsim;account_start_stuff
+wie bekomme ich eine neue esim;account_start_stuff
+wie bekomme ich eine neue sim karte;account_start_stuff
+wie bekomme ich eine sim karte;account_start_stuff
+wie bekomme ich eine simkarte;account_start_stuff
+wie bekomme ich mein sim karte;account_start_stuff
+wie bekomme ich meine sim-karte;account_start_stuff
+wie bekommt man eine sim karte bei sieben quadrat de;account_start_stuff
+wie bestelle ich die sim-karte;account_start_stuff
+wie bestelle ich eine normale sim karte;account_start_stuff
+wie bestelle ich eine sim;account_start_stuff
+wie bestelle ich eine sim karte;account_start_stuff
+wie bestelle ich eine sim prepaid;account_start_stuff
+wie bestelle ich eine sim-karte;account_start_stuff
+wie bestelle ich plastik sim;account_start_stuff
+wie bestellt man eine esim;account_start_stuff
+wie erhält man eine sim card;account_start_stuff
+wie erhalte ich die esim;account_start_stuff
+wie erhalte ich die plastik sim karte;account_start_stuff
+wie erhalte ich die sim karte;account_start_stuff
+wie erhalte ich eine e sim karte;account_start_stuff
+wie erhalte ich eine esim;account_start_stuff
+wie erhalte ich eine plastik-sim-karte;account_start_stuff
+wie erhalte ich eine sim karte;account_start_stuff
+wie erhalte ich meine simkarte;account_start_stuff
+wie erhalten ich die e sim;account_start_stuff
+wie kann ein neuer kunde eine sim-karte bestellen;account_start_stuff
+wie kann ich auf diesen account eine esim beantragen;account_start_stuff
+wie kann ich aus meinem account die simquadrat esim buchen;account_start_stuff
+wie kann ich aus meinem account eine simkarte bestellen;account_start_stuff
+wie kann ich bitte eine esim bestellen;account_start_stuff
+wie kann ich die plastik sim-karte bestellen;account_start_stuff
+wie kann ich die sim karte bestellen;account_start_stuff
+wie kann ich die simcard beantragen;account_start_stuff
+wie kann ich eien e-sim bekommen;account_start_stuff
+wie kann ich ein kart bestelle;account_start_stuff
+wie kann ich eine ersatz sim bekommen;account_start_stuff
+wie kann ich eine esim bekommen;account_start_stuff
+wie kann ich eine esim buchen;account_start_stuff
+wie kann ich eine esim dazubuchen;account_start_stuff
+wie kann ich eine esim erhalten;account_start_stuff
+wie kann ich eine esim meinem account hinzufügen;account_start_stuff
+wie kann ich eine esim zu meinem vertrag bestellen;account_start_stuff
+wie kann ich eine micro sim karte bestellen;account_start_stuff
+wie kann ich eine nano-sim bestellen;account_start_stuff
+wie kann ich eine neue sim karte bestellen;account_start_stuff
+wie kann ich eine neue sim-karte bestellen;account_start_stuff
+wie kann ich eine neue simkarte beauftragen kosten;account_start_stuff
+wie kann ich eine neue simkarte bestellen;account_start_stuff
+wie kann ich eine plastik sim karte bestellen;account_start_stuff
+wie kann ich eine sim karte bestellen;account_start_stuff
+wie kann ich eine sim karte erhalten;account_start_stuff
+wie kann ich eine sim karte hinzubuchen;account_start_stuff
+wie kann ich eine sim-karte bestellen;account_start_stuff
+wie kann ich eine sim-karte erhalten;account_start_stuff
+wie kann ich mein esim einrichten;account_start_stuff
+wie kann ich meine sim karte bestellen;account_start_stuff
+wie kann ich mir eine simkarte bestellen;account_start_stuff
+wie kann ich sim karte bestellen;account_start_stuff
+wie kann ich simkarten bestellen;account_start_stuff
+wie kann ich über meinen sipgate free account eine esim bestellen;account_start_stuff
+wie kann ich zu meinem account eine esim beantragen;account_start_stuff
+wie kann ich zu sipgate basic eine esim hinzufügen;account_start_stuff
+wie kann man als sipgate kunde online eine simquadrat esim bestellen;account_start_stuff
+wie kann man eine esim bekommen;account_start_stuff
+wie kann man eine neue sim karte bestellen;account_start_stuff
+wie kann man eine sim karte bestellen;account_start_stuff
+wie komme ich an eine physische sim-karte;account_start_stuff
+wie komme ich an meine simcard;account_start_stuff
+wie komme ich zu einer esim;account_start_stuff
+wie komme ich zur plastik sim karte;account_start_stuff
+wie muss man als neu kunde eine karte bestellen;account_start_stuff
+wir brauchen eine ersatzkarte;account_start_stuff
+wo beauftrage ich die plastik sim karte;account_start_stuff
+wo bekomme ich die sim karte her;account_start_stuff
+wo bekomme ich die sim-karte;account_start_stuff
+wo bekomme ich die simkarte;account_start_stuff
+wo bekomme ich diese sim karte;account_start_stuff
+wo bekomme ich eine esim her;account_start_stuff
+wo bekomme ich eine plastik sim karte her;account_start_stuff
+wo bekomme ich eine sim;account_start_stuff
+wo bekomme ich eine simkarte;account_start_stuff
+wo bekomme ich sim karten von euch her;account_start_stuff
+wo bestelle ich die sim-karte;account_start_stuff
+wo bestelle ich die sim-karte in meinem account;account_start_stuff
+wo bestelle ich eine normale simkarte;account_start_stuff
+wo bestelle ich eine simkarte;account_start_stuff
+wo finde ich eine esim;account_start_stuff
+wo kann ich die esim buchen;account_start_stuff
+wo kann ich die plastik-sim bestellen;account_start_stuff
+wo kann ich ein mobiles gerät hinzufügen;account_start_stuff
+wo kann ich eine e sim bestellen;account_start_stuff
+wo kann ich eine esim beantragen kostenfrei;account_start_stuff
+wo kann ich eine karte bestellen;account_start_stuff
+wo kann ich eine sim bestellen;account_start_stuff
+wo kann ich eine sim karte bekommen;account_start_stuff
+wo kann ich eine sim-karte bestellen;account_start_stuff
+wo kann ich eine simkarte bestellen;account_start_stuff
+wo kann ich eine simkarte kaufen;account_start_stuff
+wo kann ich in meinem sipgate starter account die esim zusätzlich aktivieren;account_start_stuff
+wo kann ich meine sim-karte bestellen;account_start_stuff
+wo kann ich normale sim karte beantragen;account_start_stuff
+wo kann man die sim-karte bestellen;account_start_stuff
+wo kann man eine plastik sim karte bestellen;account_start_stuff
+wo oder wie bekomme ich eine plastik sim karte;account_start_stuff
+woe bestelle ich eine simkarte;account_start_stuff
+woher bekomme ich die karte;account_start_stuff
+woher bekomme ich eine esim;account_start_stuff
+woher bekomme ich meine esim;account_start_stuff
+woher krieg ich die sim karte;account_start_stuff
+würde gerne eine esim einrichten;account_start_stuff
+zu meinem bestehenden sipgate account möchte ich eine esim buchen;account_start_stuff
+aktivierung der esim;account_start_stuff
+aktivierung esim;account_start_stuff
+aktivierung sim card für mobilteleon;account_start_stuff
+bitte sim karte aktivieren;account_start_stuff
+e sim aktivieren;account_start_stuff
+e sim aktivierung möglichkeiten;account_start_stuff
+e sim einrichten;account_start_stuff
+e sim einrichtende;account_start_stuff
+e sim kann ich nicht aktivieren;account_start_stuff
+e sim neu installieren;account_start_stuff
+e-sim aktiveren;account_start_stuff
+e-sim aktivieren;account_start_stuff
+e-sim auf apple 12 mini aktivieren;account_start_stuff
+einrichten einer esim;account_start_stuff
+esim aktivieren;account_start_stuff
+esim aktivieren im inland;account_start_stuff
+esim aktivierung;account_start_stuff
+esim einrichten;account_start_stuff
+esim karte ist immer noch nicht aktiviert;account_start_stuff
+esim lässt sich nicht aktivieren;account_start_stuff
+esim manuell aktivieren;account_start_stuff
+esim qr code erstellen;account_start_stuff
+esim wieder aktivierung;account_start_stuff
+essig karte lässt sich nicht aktivieren;account_start_stuff
+fehler bei esim aktivierung;account_start_stuff
+freischaltung esim;account_start_stuff
+habe die sim gerade aktiviert;account_start_stuff
+hallo wie kann ich eine esim aktivieren;account_start_stuff
+hallo wo kann ich die e-sim aktivieren;account_start_stuff
+hallo würde gerne esim aktivieren;account_start_stuff
+handy esim einrichten;account_start_stuff
+ich benötige einen qr code;account_start_stuff
+ich erhalten den qr-code nicht;account_start_stuff
+ich kann esim nicht aktivieren;account_start_stuff
+ich kann meine esim nicht aktivieren;account_start_stuff
+ich kann meine sim nicht aktivieren;account_start_stuff
+ich möchte eine esim aktivieren;account_start_stuff
+ich möchte meine esim aktivieren;account_start_stuff
+ich versuche eine esim zu aktivieren;account_start_stuff
+ich will esim karte aktivieren;account_start_stuff
+meine esim aktiviert nicht;account_start_stuff
+möchte esim einrichten;account_start_stuff
+neue esim aktivieren;account_start_stuff
+neuer esim qr code;account_start_stuff
+neuer qr code;account_start_stuff
+sim aktivieren;account_start_stuff
+sim kart aktivieren;account_start_stuff
+sim karte aktivieren;account_start_stuff
+sim karte kann nicht aktiviert werden;account_start_stuff
+sim lässt sich nicht aktivieren;account_start_stuff
+simkarte aktivieren;account_start_stuff
+wie aktivere ich die esim;account_start_stuff
+wie aktiviere ich die esim;account_start_stuff
+wie aktiviere ich e sim;account_start_stuff
+wie aktiviere ich eine esim;account_start_stuff
+wie aktiviere ich eine esim card;account_start_stuff
+wie aktiviere ich esim;account_start_stuff
+wie aktiviere ich meine e-sim;account_start_stuff
+wie aktiviere ich meine esim;account_start_stuff
+wie aktiviere ich nun meine esim;account_start_stuff
+wie bekomme ich den qr-code;account_start_stuff
+wie einrichten esim watch;account_start_stuff
+wie funktioniert die aktivierung der e-sim;account_start_stuff
+wie installiere ich eine e sim;account_start_stuff
+wie kann ich das esim aktivieren;account_start_stuff
+wie kann ich die esim aktivieren;account_start_stuff
+wie kann ich die esim einrichten;account_start_stuff
+wie kann ich die kostenlose sim-karte aktivieren;account_start_stuff
+wie kann ich die sim card aktivieren;account_start_stuff
+wie kann ich die sim karte;account_start_stuff
+wie kann ich eine esim aktivieren;account_start_stuff
+wie kann ich esim aktivieren;account_start_stuff
+wie kann ich esim aktivieren n;account_start_stuff
+wie kann ich esim we code bekommen;account_start_stuff
+wie kann ich mein e-sim aktivieren;account_start_stuff
+wie kann ich meine esim aktivieren;account_start_stuff
+wie kann ich meine karte aktivieren;account_start_stuff
+wie kann ich meine sim-karte aktivieren;account_start_stuff
+wie lade ich die e sim runter;account_start_stuff
+wie mache ich meine esim an;account_start_stuff
+wie richte ich eine virtuelle sim ein;account_start_stuff
+wie richte ich esim ein;account_start_stuff
+wie wie kann ich die esim aktiviere;account_start_stuff
+wie wird das qr code geschickt;account_start_stuff
+wie wird die sim-karte aktiviert;account_start_stuff
+wie wird esim aktiviert;account_start_stuff
+wir aktiviere ich esim;account_start_stuff
+wo aktiviere ich die esim;account_start_stuff
+wo erhalte ich esim zugangsdaten für besteh;account_start_stuff
+wo find ich mein qr code;account_start_stuff
+wo finde ich den code zum scannen;account_start_stuff
+wo finde ich den qr code;account_start_stuff
+wo kann ich die simkarte aktivieren;account_start_stuff
+hallo ch möchte ein mobiltelefon anlegen;account_start_stuff
+hallo wie kann ich die mobilfunknummer aktivieren;account_start_stuff
+hallo wie lege ich ein mobiltelefon an;account_start_stuff
+ich kann keinen mobilfunktarif zum iphone hinzufügen;account_start_stuff
+ich möchte ein mobiltelefon verknüpfen;account_start_stuff
+mobile geräte integrieren;account_start_stuff
+mobile ios telefon anlegen;account_start_stuff
+mobiles gerät inzufügen;account_start_stuff
+mobilfunk aktivieren;account_start_stuff
+mobilfunk anschluß buchen;account_start_stuff
+mobilfunk hinzufügen;account_start_stuff
+mobilfunk nicht aktiviert;account_start_stuff
+mobiltelefon aktivieren;account_start_stuff
+sipgate quadrat mobilfunk buchen;account_start_stuff
+wie erhalte ich eine mobil nummer;account_start_stuff
+wie richte ich eine simquadrat nummer ein;account_start_stuff
+wo kann ich mobilfunk einrichten;account_start_stuff
+aufladung aktivieren;account_start_stuff
+hallo wie kann ich eine rufnummernmitnahme beauftragen;account_start_stuff
+hallo wie kann man die rufnummerübernahme beantragen;account_start_stuff
+ich möchte eine rufnummernportierung;account_start_stuff
+portierung beantragen;account_start_stuff
+portierung beauftragen;account_start_stuff
+portierung starten;account_start_stuff
+rufnummermitnahme beantragen;account_start_stuff
+wie beantrage ich eine portierung;account_start_stuff
+wo beantrage ich eine portierung;account_start_stuff
+guten morgen ich möchte sie bitten eine rufnummernportierung zu beantragen;account_start_stuff
+ich möchte eine rufnummernportierung beantragen;account_start_stuff
+wo beantrage ich die portierung;account_start_stuff
+wo kann ich die rufnummernübernahme beantragen;account_start_stuff
+hallo - wo kann ich die mobile flat zum account zubuchen;account_start_stuff
+hallo geehrtes sipgate-team gerne würde ich die telefon-flat buchen;account_start_stuff
+hallo ist es möglich einen weiteren account für unseren technischens sevice einzurichten;account_start_stuff
+hallo sipgate ist es möglich auslandspakete zu buchen;account_start_stuff
+ich möchte die deutschland-flatrate für 4,95 euro buchen finde die option aber nirgends;account_start_stuff
+ich möchte gern ein siptrunk haben;account_start_stuff
+ich möchte gerne einstunden paket buchen;account_start_stuff
+ıch wıll den allnet flatt;account_start_stuff
+kann ich ein weiteren vertrag mit den selben konditionen buchen;account_start_stuff
+tarif buchen;account_start_stuff
+warum kann ich kleine sprachflat bestellen;account_start_stuff
+wie kann ich eine sprach flat-rate für meinen voip buchen;account_start_stuff
+wo buchen wir minutenpakete;account_start_stuff
+clinq aktivieren;account_start_stuff
+guten tag ich würde gerne simquadrat bestellen;account_start_stuff
+hallo ich möchte einen simquadrat-tarif buchen wie ist das aus dem kundenbereich möglich;account_start_stuff
+hallo ich möchte simquadrat bestellen;account_start_stuff
+hallo ich würde für uns gerne clinq nutzen wo kann ich diesen servce aktivieren;account_start_stuff
+hallo wie kann ich für meine user clinq einrichten;account_start_stuff
+hi könnt ihr bitte für uns clinq aktivieren vielen dank vorab und gruß kim muster;account_start_stuff
+ich möchte clinq aktivieren wie geht das;account_start_stuff
+simquadrat buchen;account_start_stuff
+simquadrat einrichten;account_start_stuff
+simquadrat kaufen;account_start_stuff
+sipgate basic abonnieren;account_start_stuff
+wie kann ich clinq aktivieren;account_start_stuff
+wie kann ich clinq für mich aktivieren;account_start_stuff
+wie kann ich simquadrat bestellen;account_start_stuff
+wie kann ich sipgate basic abonnieren;account_start_stuff
+benutzer anlegen;account_start_stuff
+guten tag wo kann ich user anlegen;account_start_stuff
+ich möchte einen neuen mitarbeiter einrichten;account_start_stuff
+ich möchte einen zusätzlichen nutzer hinzufügen;account_start_stuff
+teilnehmer anlegen;account_start_stuff
+user anlegen;account_start_stuff
+wie lege ich einen inklusive benutzer an;account_start_stuff
+wie lege ich einen teilnehmer an;account_start_stuff
+wo kann ich benutzer anlegen;account_start_stuff
+wo kann ich nutzer anlegen;account_start_stuff
+voip telefon gerät hinzufügen;account_start_stuff
+anschluss hinzufügen;account_start_stuff
+hi ich kann kein gerät hinzufügen;account_start_stuff
+hallo ich kann kein telefon mehr zu meinem account hinzufügen;account_start_stuff
+satellite hinzufügen;account_start_stuff
+wo kann ich das gerät hinzufügen;account_start_stuff
+guten abend ich möchte gerne eine 2 faktorauthentifikation einrichten bieten sie so etwas an;account_start_stuff
+sim karten anfordern;account_start_stuff
+guten tag ich möchte einen weiteren anschluss hinzufügen;account_start_stuff
+hallo rufumleitung aktivieren;account_start_stuff
+hallo es ist nicht möglich für meinen account die weiterleitung einzurichten;account_start_stuff
+ich würde gerne eine esim buchen;account_start_stuff
+wie richte ich nun eine weiterleitung ein;account_start_stuff
+ich brauche nur eine festnetznr für mein handy;account_start_stuff
+wie kann ich eine simkarte aktivieren;account_start_stuff
+ich benötige eine italienische rufnummer;account_start_stuff
+sim aktivierung;account_start_stuff
+datenvolumen buchen ohne automatische aufladung;account_start_stuff
+wie kann ich ein fax hinzufügen;account_start_stuff
+ich kann kein endgerät anlegen;account_start_stuff
+sim karte nicht aktiviert;account_start_stuff
+fax kann nicht eingerichtet werden;account_start_stuff
+ich brauche noch eine simkart;account_start_stuff
+hallo ich möchte eine zweite simkarte bestellen;account_start_stuff
+einrichtung weiterleitung;account_start_stuff
+können sie meine sim bitte freischalten;account_start_stuff
+hallo ich schaffe es leider nicht eine weiterleitung einzurichten;account_start_stuff
+ich kann kein mobiltelefon anlegen;account_start_stuff
+wie aktiviere ich die 2fa;account_start_stuff
+telefonbuch einrichten;account_start_stuff
+2fa aktivieren;account_start_stuff
+wie kann ich eine esimkarte erstellen;account_start_stuff
+hallo kann ich auch ein virtuelles faxgerät einrichten wenn ja wie;account_start_stuff
+neue sim beställen;account_start_stuff
+hallo gibt es ein möglichkeit eine italienische rufnummer bei sipgate zu buchen und zu nutzen;account_start_stuff
+wie aktiviere ich die zwei-faktor-authentifizierung;account_start_stuff
+kann kein datensnack buchen;account_start_stuff
+datenoption buchen;account_start_stuff
+hallo wie kann ich weiterleitungen einrichten;account_start_stuff
+ich finde den feature store nicht mehr wo kann ich eine faxnummer bestellen;account_start_stuff
+wie kann ich jetzt eine rufumleitung einrichten;account_start_stuff
+3 rufnummern buchen;account_start_stuff
+esimkarte aktivieren;account_start_stuff
+kann ich fax aktivieren;account_start_stuff
+wie bekomme ich meine esim;account_start_stuff
+hallo gern möchte ich eine sim karte;account_start_stuff
+wie kann ich meine sim karte aktivieren;account_start_stuff
+umleitung einrichten;account_start_stuff
+simkarten bestellen;account_start_stuff
+hallo ich möchte ein festnetztelefon anmelde;account_start_stuff
+ich benötige meine esim;account_start_stuff
+hallo wie kann ich ein fax einrichten;account_start_stuff
+rufumleitung aktivieren;account_start_stuff
+kostenlose weiterleitung einrichten;account_start_stuff
+wie richtg ich eine rufumleitung richtig ein;account_start_stuff
+simkarte nicht aktiviert;account_start_stuff
+weiterleitung aktivieren;account_start_stuff
+fax empfangen buchen;account_start_stuff
+guten tag ich hätte eine frage zur einrichtung einer gruppenweiterleitung;account_start_stuff
+fax nr buchen;account_start_stuff
+guten morgenkann man sipgate auch eine faxnummer einrichten;account_start_stuff
+neue telefon einrichten;account_start_stuff
+hallo wie kann ich e sim aktivieren;account_start_stuff
+aktivieren;account_start_stuff
+können sie meine nummern aktivieren;account_start_stuff
+ich möchte ein neues voip telefon registrieren;account_start_stuff
+wie kann ich einen anrufbeantworter aktivieren;account_start_stuff
+wie kann man eine zusätzliche leitung buchen;account_start_stuff
+brauche telefonnummer;account_start_stuff
+kann ich wie früher weiterleitung ein- und ausschalten;account_start_stuff
+
+
+
+ich habe mein sim verloren wenn ich 1 neue sim bestelle kostet es mir was;mobile_sim_acquire
+ab wieviel jahren kann ich eine sim bestellen;mobile_sim_acquire
+adresse ist korrekt und ich bin auch gerade identifiziert worden aber wie kann ich jetzt die esim nutzen;mobile_sim_acquire
+aha d h ich kann einen tarif bestellen und bestelle im nachhinein die physische sim karte;mobile_sim_acquire
+also folgendes muss ich mir die sim karte online bestellen oder wie läuft das alles jetzt gerade ab;mobile_sim_acquire
+automatischer versand simkarte;mobile_sim_acquire
+bekomm ich meine simkarte zugesendet;mobile_sim_acquire
+bekomme ich bei esm eine plastik sim karte;mobile_sim_acquire
+bekomme ich bei vertragsabschluss eine sim karte;mobile_sim_acquire
+bekomme ich die sim-karte mit dem protierungsauftrag automatisch;mobile_sim_acquire
+bekomme ich eigentlich eine simmkarte für den vertrag;mobile_sim_acquire
+bekomme ich eine karte für mein handy;mobile_sim_acquire
+bekomme ich eine sim karte für mein älteres handy;mobile_sim_acquire
+bekomme ich eine sim karte per post;mobile_sim_acquire
+bekomme ich eine sim karte zu geschickt;mobile_sim_acquire
+bekomme ich eine sim karte zugeschickt;mobile_sim_acquire
+bekomme ich eine simcard zugeschickt;mobile_sim_acquire
+bekomme ich eine simkarte zugeschickt;mobile_sim_acquire
+bekomme ich euch richtige simkarte mit festnetznummer bei bestellung;mobile_sim_acquire
+bekomme ich zu sipgate starter eine simkarte bzw gibt es tarife mit simkarte;mobile_sim_acquire
+bekommt man esim für smartfon und iwatch;mobile_sim_acquire
+bietet starter auch esim;mobile_sim_acquire
+brauche für eine samsung galaxy watch 3 eine esim;mobile_sim_acquire
+brauche neue sim karte alte past nicht in neues gerät;mobile_sim_acquire
+e sim für galaxy smart watch;mobile_sim_acquire
+e sim profil fūr samsung a 50 herunterladbar;mobile_sim_acquire
+e-sim für samsung watch 3;mobile_sim_acquire
+eine sim karte wäre mir lieber;mobile_sim_acquire
+einen schönen guten abend wenn ich jetzt eine mobilnummerportierung in auftrag gebe bekomme ich die sim karte erst zugesendet wenn die rufnummer tatäschlich portiert wurde;mobile_sim_acquire
+erhalte ich automatisch eine sim karte;mobile_sim_acquire
+erhalte ich bei der registrierung automatisch eine sim karte;mobile_sim_acquire
+erhalte ich eine kostenlose sim in meiner testzeit;mobile_sim_acquire
+ersatz karte;mobile_sim_acquire
+ersatz sim;mobile_sim_acquire
+ersatz sim karte;mobile_sim_acquire
+ersatzkarte;mobile_sim_acquire
+es gab doch mal was eigenes mist einer simkarte;mobile_sim_acquire
+esim fritzbox;mobile_sim_acquire
+esim für samsung galaxy s7;mobile_sim_acquire
+esim für samsung smartwatch;mobile_sim_acquire
+esim für smart watch;mobile_sim_acquire
+esim für surface;mobile_sim_acquire
+esim fürs laptop;mobile_sim_acquire
+esim mit sipgate nummer;mobile_sim_acquire
+esim sofort nutzen;mobile_sim_acquire
+esim testen;mobile_sim_acquire
+frage nach einer sim karte;mobile_sim_acquire
+für mein neues telefon brauche ich eine nano-sim meine simcard ist aber so alt dass dies nicht möglich ist;mobile_sim_acquire
+gibt es auch nano sim karten;mobile_sim_acquire
+gibt es bei abschluss eines vertrages eine neue sim karte;mobile_sim_acquire
+gibt es bei sipgate basic eine esim;mobile_sim_acquire
+gibt es eine e sim;mobile_sim_acquire
+gibt es eine ersatz sim karte;mobile_sim_acquire
+gibt es eine esim;mobile_sim_acquire
+gibt es eine esim bei sipgate free;mobile_sim_acquire
+gibt es eine möglichkeit für eine esim damit ich es auf meinem iphone nutzen kann;mobile_sim_acquire
+gibt es eine sim karte;mobile_sim_acquire
+gibt es noch eine plastik sim;mobile_sim_acquire
+gibts noch klassische sims für handie;mobile_sim_acquire
+guten tag habe meine sim verlegt;mobile_sim_acquire
+guten tag ich benötige eine simkarte mit handy und festnetznummer für mein unternehmen ist dies möglich eine festnetznummer besteht bereits und könnte übernommen werden;mobile_sim_acquire
+guten tag ich habe eine esim von simquadrat und möchte für ein weiteres gerät noch eine weitere esim nutzen wie muss ich hier vorgehen auf dem weiteren gerät sollte eine andere nummer genutzt werden als auf dem bereits vorhandenen gerät geht das unter einem account;mobile_sim_acquire
+guten tag ich habe eine frage hieß bei sipgate auch e simkarte;mobile_sim_acquire
+guten tag ich habe gelesen dass es mittlerweile sim karte für sipgate gibt mit der man mit der festnetznummer erreichbar ist ich würde diese gerne bestellen finde jedoch keine möglichkeit dafür wenn sie mir vielleicht helfen könnten vielen dank und ein gutes neues jahr;mobile_sim_acquire
+guten tag ich möchte gerne eine esim bestellen kann ich dies auch über meinen bestehenden account oder brauche ich einen neuen account;mobile_sim_acquire
+guten tag ich würde gerne eine esim auf meinem mobiltelefon hinterlegen so wie ich es verstanden habe ist die esim in meinem tarif mit dabei wo kann ich die esim generieren;mobile_sim_acquire
+guten tag ich würde gerne eine sim-karte für eine nummer bzw einen benutzer beantragen habe aber auf die schnelle keine online-funktion gefunden es wäre klasse wenn sie mir hier weiterhelfen würden vielen dank;mobile_sim_acquire
+guten tag leider kann ich hier keine esim einrichten wie kann ich dieses konto kündigen und das prepaid-volumen zurückbuchen lassen;mobile_sim_acquire
+guten tag wie viel kostet es wenn ich bei der verwaltung der telefonroute ein mobilgerät mit sim karte hinzufügen möchte;mobile_sim_acquire
+guten tag wir haben in der letzten zeit das problem dass während der telefonie das gespräch abrupt nicht mehr zu hören ist man muß deshalb das gespräch beenden und neu wählen oder sich wieder anrufen lassen beim check der telefone hat uns der apple-fachhändler empfohlen die sim-karten auszutauschen da es nicht an den telefonen liegt könnten sie uns bitte neue sim-karten für die mobilnummern 77777777777 und 777777777777 zuschicken;mobile_sim_acquire
+habe in meinem handy eine datenkarte für sipgate kann ich aber auch eine sim-karte benutzen mit der ich normal telefonieren und sipgate benutzen kan;mobile_sim_acquire
+habt ihr auch e sim;mobile_sim_acquire
+habt ihr auch sim-karten;mobile_sim_acquire
+habt ihr sim karten;mobile_sim_acquire
+hallo - wie kann ich eine esim für meine via portierung importierte handynummer bestellen;mobile_sim_acquire
+hallo bekomme ich eine plastic sim wenn mein gerät kein esim unterstützt;mobile_sim_acquire
+hallo bekommt man bei bestellung automatisch eine simkarte oder muss man diese extra bestellen lg;mobile_sim_acquire
+hallo derzeit nutzen wir lediglich den basisvertrag free und leiten eingehende anrufe auf eine externe rufnummer um nun wollen wir auch ausgehende anrufe mit der zugewiesenen festnetznummer vom mobiltelefon tätigen daher die folgenden frage wie können wir eine allnet flat mit esim buchen etwa separat zum free tarif hinzubuchen oder durch umstellung des vertrages auf business l wäre die esim hier schon preislich inbegriffen besten dank vorab für ihre auskunft mit freundlichen grüßen kim muster;mobile_sim_acquire
+hallo gibt es auch sim karten bei sipgate die ich für mein arbeitstelefon bestellen kann;mobile_sim_acquire
+hallo habe eine smartphone und neuerdings auch eine alle watch mit sim funktion und würde die gerne nutzen;mobile_sim_acquire
+hallo haben sie auch klassische sim karten;mobile_sim_acquire
+hallo ich benötige eine nano-sim-karte für mein smartphone;mobile_sim_acquire
+hallo ich benötige nun doch für meine nummer eine simkarte auf der ich auch telefonisch erreichbar bin gibt es die möglichkeit diese zu bestellen;mobile_sim_acquire
+hallo ich brauche neue sim karte und alte bitte löschen;mobile_sim_acquire
+hallo ich habe eine frage wie kann ich die sim karte beantragen mein handy kann kein esim;mobile_sim_acquire
+hallo ich habe einen sipgate business xl account und möchte zusätzlich eine esim;mobile_sim_acquire
+hallo ich habe leider meine telefon verlegt bitte um sendung einer ersatz-sim;mobile_sim_acquire
+hallo ich habe mal eine frage was muss ich tun um eine esim zu bekommen auf meinen account;mobile_sim_acquire
+hallo ich habe mir ein iphone 13 angeschafft und benötige deshalb eine neue sim nano oder esim;mobile_sim_acquire
+hallo ich hätte gerne eine 2. sim karte zur trennung beruflich und privat ist das möglich;mobile_sim_acquire
+hallo ich hätte gerne eine sim karte mit festnetz nummer;mobile_sim_acquire
+hallo ich kann leider zu der von mir ausgewählten mobilfunk nummer keine e-sim bestellen ich bekomme ein pop up fenster aber es tut sich nichts;mobile_sim_acquire
+hallo ich möchte eine kostenlose esim nutzen;mobile_sim_acquire
+hallo ich möchte eine sim karte fur iphone;mobile_sim_acquire
+hallo ich möchte gerne eine esim nutzen;mobile_sim_acquire
+hallo ich möchte gerne eine esim zu meinem konto hinzufügen könnten sie mir dabei behilflich sein;mobile_sim_acquire
+hallo ich möchte gerne esim zu meinen sipgate basic account hinzufügen sehe aber nicht wie man das im account hinzufügen kann;mobile_sim_acquire
+hallo ich suche eine simkarte mit festnetznummer für privatkunden;mobile_sim_acquire
+hallo ich wollte eine neue sim karte da ich meine neue nicht finde und sie nicht aktivieren kann;mobile_sim_acquire
+hallo ich wuerde gerne eine sim karte nutzen;mobile_sim_acquire
+hallo ich würde gern eine esim mit diesem konto verbinden – nachdem simquadrat zu sipgate wurde müsste das doch jetzt gehen;mobile_sim_acquire
+hallo ich würde gerne auch die neuen kostenlosen funktionen von sipgate basic nutzen wie zb die sim-karte finde jedoch keine option diese freizuschalten bzw zu bestellen;mobile_sim_acquire
+hallo ich würde gerne eine esim zu meinem bestehenden konto hinzufügen leider kann ich diese option nicht finden ich möchte kein neues konto erstellen können sie mir da weiterhelfen;mobile_sim_acquire
+hallo ich würde gerne eine sim karte mit ortsrufnummer bestellen;mobile_sim_acquire
+hallo ich würde gerne eine weitere sim-karte mit einer anderen mobil-/festnetznummer bestellen wenn möglich ohne fixk/ monat gibt es hierzu ein angebot;mobile_sim_acquire
+hallo ist es möglich dass ich wieder eine esim zu diesem account haben kann kundennummer 3313646;mobile_sim_acquire
+hallo ist es möglich zu dem vertrag eine zweite sim karte mit einer eigenen rufnummer zu bekommen;mobile_sim_acquire
+hallo kann ich eine mini-sim-karte für iphone 3g bekommen;mobile_sim_acquire
+hallo kann ich in diesem account auch eine esim nutzen ich finde keine option im feature-store;mobile_sim_acquire
+hallo kann ich zu meinem bestehenden account mit einer traditionellen simkarte noch eine esim für meine galaxy watch bekommen oder muss ich dafür einen weiteren account einrichten;mobile_sim_acquire
+hallo koenen sie bitte mir helfen wo in der manu kann ich eine sim karte bestellen;mobile_sim_acquire
+hallo können sie mir eine simkarte für ein dual sim handy zusenden;mobile_sim_acquire
+hallo sipgate team ich habe mien handy-karte verloren wo/wie kann ich bei ihnen eine neue micro sim karte anforden vielen dank muster;mobile_sim_acquire
+hallo wie bekomme ich eine sim karte für ein handy;mobile_sim_acquire
+hallo wie kann ich eine esim auf meinem handy einrichten;mobile_sim_acquire
+hallo wie kann ich meine nummer 7777-77777777 und 77777-7777777 in eine esim umwandeln wo gibt dafür online die möglichkeit;mobile_sim_acquire
+hallo wie kann man sich eine sim karte bestellen wo muss ich drauf klicken bei loggen;mobile_sim_acquire
+hallo wie wechsle ich im neuen interface auf esim;mobile_sim_acquire
+hallo wir hätten gern für 2 unserer benutzer sim-karten für die mobiltelefonie wie genau funktioniert das dann landet die fn-büronummer dann automatisch auch auf dem mobiltelefon oder hat man eine zusätzliche nummer;mobile_sim_acquire
+hallo wo kann ich eine sim-karte bestellen ich finde in dem verwaltungs-frontend nicht den button den ich in der vergangenheit bereits genutzt hatte;mobile_sim_acquire
+hallo zusammen bitte schickt uns kd 2713223 2 weitere sim-karten zu vielen dank;mobile_sim_acquire
+hat sipgate auch sim karten;mobile_sim_acquire
+hi gibt es bei basic kein esim;mobile_sim_acquire
+hi ich bräuchte eine esim für meine smartwatch;mobile_sim_acquire
+hi ich diese konto für esim geöffnet;mobile_sim_acquire
+hi ich habe ein iphone kann ich von euch eine esim bekommen;mobile_sim_acquire
+hi ich verharre im sipgate business und will ne esim kostzenlos buchen fürs handy wie geht das nun;mobile_sim_acquire
+hi wie kann ich meine vorhandene mobilfunknummer meinem account hinzufügen und die esim nutzen;mobile_sim_acquire
+ich beabsichtige für mein iphone 11 eine zweite duale nummer zu aktivieren und benötige dafür eine esim geht das mit ihrem vertrag;mobile_sim_acquire
+ich benötige eine neue e – sim wie kann ich die herunterladen es ist für ein iphone zwölf;mobile_sim_acquire
+ich benötige eine neue sim-karte befinde mich jedoch gerade in österreich;mobile_sim_acquire
+ich benötige eine sim fürs smartpohone und eine esim für eine smartwatch;mobile_sim_acquire
+ich brauche eine esim für eine kids uhr;mobile_sim_acquire
+ich brauche eine neue simkarte können sie mir eine zuschicken;mobile_sim_acquire
+ich brauche eine simkarte für festnetz- und mobilfunknummer;mobile_sim_acquire
+ich brauche nur eine e sim für meine watch mit 500 mbit;mobile_sim_acquire
+ich bräuchte eine neue sim karte die gesprächsqualität ist miserabel;mobile_sim_acquire
+ich bräuchte weitere 10 sim karten das grosse modell 13mm x 10mm;mobile_sim_acquire
+ich finde nicht wo ich eine ersatz sim karte bestellen kann;mobile_sim_acquire
+ich habe bereits eine mobilfunknummer bei sipgate wie erhalte ich dazu eine esim;mobile_sim_acquire
+ich habe ein neues handy und benötige eine mini-sim;mobile_sim_acquire
+ich habe eine sipgate konto schon lange aber wan ich anmelde bekome ich kein option fue ein simkarte zum bestellen;mobile_sim_acquire
+ich habe einen huawei orange für internet dafür brauche ich eine sim-karte;mobile_sim_acquire
+ich habe meine sim-karte verlegt kann ich eine ersatzkarte bestellen;mobile_sim_acquire
+ich habe mich gestern bei ihnen registriert bekomme ich automatisch meine sim karten zugeschickt oder muss ich noch was machen;mobile_sim_acquire
+ich habe von dieser esim gehört können sie mir eine zuschicken;mobile_sim_acquire
+ich hätte gerne eine esim um das handy auch als nebenstellen zu nutzen und an diese nummer auch rangehen zu können;mobile_sim_acquire
+ich hätte gerne eine sim karte bezüglich meiner rufnummern muss ich die bestekllen oder kommen diese automatisch;mobile_sim_acquire
+ich kann die option zur kartenbestellung dort nicht finden;mobile_sim_acquire
+ich kann leider keine esim auswählen;mobile_sim_acquire
+ich möchte die sim karte ersetzen änderung des kartenformats;mobile_sim_acquire
+ich möchte eine esim;mobile_sim_acquire
+ich möchte eine esim für meine smartwatch;mobile_sim_acquire
+ich möchte eine esim für meine uhr;mobile_sim_acquire
+ich möchte eine richtige sim karte für in mein handy haben;mobile_sim_acquire
+ich möchte eine sim karte;mobile_sim_acquire
+ich möchte esim mit 19,00 € pro monat auf meinem konto kaufen vielen dank;mobile_sim_acquire
+ich möchte für einen benutzer eine esim einrichten können sie mir dabei helfen - ich finde den menüpunkt nicht mehr;mobile_sim_acquire
+ich möchte gerne eine esim für mein smartwatsch;mobile_sim_acquire
+ich möchte gerne eine sim karte in mein smartphone einstecken;mobile_sim_acquire
+ich möchte keinen datenvolumen auch keine multi ich möchte eine neue neue sim karte zum telefonieren;mobile_sim_acquire
+ich suche eine e sim bin ich hier richtig;mobile_sim_acquire
+ich suche eine günstige esim für eine smartwatch;mobile_sim_acquire
+ich suche eine prepaid e sim für galaxy watch 3;mobile_sim_acquire
+ich suche meine simkarte;mobile_sim_acquire
+ich will die esim mit einer smartwatch nutzen;mobile_sim_acquire
+ich würde gerne ein kostenloses esim profil auf meinem handy nutzen finde jedoch die option unter telefone nicht;mobile_sim_acquire
+ich würde gerne für den nutzer kim mustermann eine physische sim karte bestellen;mobile_sim_acquire
+inklusive sim karten nutzung;mobile_sim_acquire
+ist auch eine echte sim lieferbar;mobile_sim_acquire
+ist es möglich für privatkunden eine richtige sim karte zu bekommen;mobile_sim_acquire
+ist es möglich meinen anschluss über esim zu nutzen;mobile_sim_acquire
+kann ich bei meinem anschluss esim verwenden;mobile_sim_acquire
+kann ich bei sipgate auch eine sim karte fürs handy mit der gleichen festnetznummer erhalten;mobile_sim_acquire
+kann ich eine esim bekommen ohne zu sipgate team zu wechseln;mobile_sim_acquire
+kann ich eine simkarte für mein iphone bekommen;mobile_sim_acquire
+kann ich für meinen business account gratis sim karten bestellen;mobile_sim_acquire
+kann ich nur eine sim karte mit eu flat bestellen;mobile_sim_acquire
+kann ich über diesen account auch simquadrat karten ordern;mobile_sim_acquire
+kann ich zu sipgate basic eine esim mit parallelruf erhalten;mobile_sim_acquire
+kann man bei den neuen simquadrat tarifen auch eine klassiche simkarte bekommen weil das handy e sim nicht unterstüzt;mobile_sim_acquire
+kann man bei ihnen einen esim für den smart watch series 3 kaufen;mobile_sim_acquire
+kann man in sipagte business xl auch die esim benutzen;mobile_sim_acquire
+kriege ich eine sim;mobile_sim_acquire
+kriegt man eine normale sim karte geliefert;mobile_sim_acquire
+leider geht meine sim nicht mehr wie kann ich eine ersatz-sim beantragen;mobile_sim_acquire
+mobilfunknummer und sim karte;mobile_sim_acquire
+möchte als sipgate basic nutzer auch mit meinem smartphone zu sipgate wechseln wie bekomme ich die esim und die rufnummer bzw wie aktiviere oder bestelle ich das;mobile_sim_acquire
+moin ich benötige 3 e-sim karten und alle mit der gleichen rufnummer wie stelle ich das an :;mobile_sim_acquire
+moin ich benötige demnächst eine zweite sim karte wie kann ich diese bekommen und was sind die kosten;mobile_sim_acquire
+moin meine simkarte ist mir irgendwie abhanden gekommen ich finde sie zu hause nicht mehr;mobile_sim_acquire
+nach mobilfunknummer portierung bruche ich eine neue sim karte;mobile_sim_acquire
+nano sim verfügbar;mobile_sim_acquire
+ok ich meinte jedoch ob es möglich ist für einen neuen vertrag weiterhin die sim-karte aus plastik zubekommen;mobile_sim_acquire
+prepaid e sim für galaxy watch 3;mobile_sim_acquire
+sim bestellen für meine rufnummer;mobile_sim_acquire
+sim card schicken;mobile_sim_acquire
+sim karte versand;mobile_sim_acquire
+sim karte versenden;mobile_sim_acquire
+sim karte zu meinem sipgate basic anschluss;mobile_sim_acquire
+sim karte zuschicken;mobile_sim_acquire
+sim karten schicken;mobile_sim_acquire
+sim-karte für neu kunden;mobile_sim_acquire
+simquadrat sim karte zuschicken;mobile_sim_acquire
+sorry hatte gerade einen chat offen war danach aber in einem telefonat der kollege beschrieb wohl wie wir von kostenpflichtigen auf kostenlose sim karten umsteigen können da wir die handynummern nur als weiterleitung nutzen könnten sie mir nochmal kurz schildern wie das geht leider war der chat weg als ich ihn neu laden wollte besten dank sven;mobile_sim_acquire
+suche die möglichkeit die mobilfunknummer zu esim zu holen;mobile_sim_acquire
+versand sim karte;mobile_sim_acquire
+vielleicht ist die frage blöd aber gibts bei euch auch noch physikalische sim karten;mobile_sim_acquire
+wann ist damit zu rechnen dass die esim in meiner apple smartwatch genutzt werden kann;mobile_sim_acquire
+weiter esim;mobile_sim_acquire
+wie finde ich die esim;mobile_sim_acquire
+wie funktioniert das mit der sim karte;mobile_sim_acquire
+wie kann ich denn zu meinem bestehenden sipgate basic nun simquadrat dazubuchen also die sim-karte damit ich meine rufnummern auch übers handy nutzen kann;mobile_sim_acquire
+wie kann ich die esim nutzen;mobile_sim_acquire
+wie kann ich eine esim zusätzliche für meine watch 4 bestellen;mobile_sim_acquire
+wie kann ich esim nutzen;mobile_sim_acquire
+wie kann ich meine mobilnummer mit sein ins handy einfügen;mobile_sim_acquire
+wie kann ich noch eine sim karte für das mobiltelefon bekommen;mobile_sim_acquire
+wie kann ich zu dieser nummer eine simmkarte erhalten;mobile_sim_acquire
+wie sim;mobile_sim_acquire
+wir haben gerade einen sipgate team vertrag abgechlossen und wollen 3 e-sim karten dazu buchen für die wir eine telefonieflat dazubuchen können bestellen wir dann sim karten über das system die dann per post zugesandt werden oder bestellt man die e-sim an anderr stelle;mobile_sim_acquire
+wird die sim karte and die musterstrasse 11 gesendet;mobile_sim_acquire
+wo bekomme ich die karte tankstelle oder dm;mobile_sim_acquire
+wo finde ich den die esim;mobile_sim_acquire
+wo finde ich die esim;mobile_sim_acquire
+wo finde ich esimms;mobile_sim_acquire
+wo finde ich für meine rufnummer eine e-sim profil für meinem iphone;mobile_sim_acquire
+wo finde ich meine esim;mobile_sim_acquire
+wo gibt es die karte;mobile_sim_acquire
+wo gibt es die sim;mobile_sim_acquire
+wo kann ich eine esim finden;mobile_sim_acquire
+zum telefonieren benötige ich eine plastik sim - ist das möglich;mobile_sim_acquire
+esim auf dem iphone einrichten;mobile_sim_acquire
+esim für smartwatch huawei einrichten;mobile_sim_acquire
+esim installieren;mobile_sim_acquire
+wie lade ich eine e-sim;mobile_sim_acquire
+wie kann ich eine kostenfreie sipgate sim karte bestellen - finde unter routing den punkt nicht;mobile_sim_acquire
+guten tag ich möchte satelite mit einer esim nutzen wie kann ich die esim bestellen und was kostet das;mobile_sim_acquire
+ich habe mich online legitimiert bekomme ich die sim-karte jetzt zugeschickt oder muss ich nun noch etwas machen;mobile_sim_acquire
+ersatzsimkarte;mobile_sim_acquire
+hallo - ich möchte mich erkunden ob ich die virtuelle simkarte auch als physische simkarte bestellen kann;mobile_sim_acquire
+kann ich eine sim karte kostenlos dazu bestellen;mobile_sim_acquire
+ich brauche eine sim karte mit e sim kann ich nicht dual arbeiten;mobile_sim_acquire
+wo finde ich die schriftliche info link etc was bei sipgate eine triplesimersatzkarte kostet wenn man noch/nur eine alte aus simquadrat-zeiten besitzt;mobile_sim_acquire
+esim gewünscht;mobile_sim_acquire
+gib esim;mobile_sim_acquire
+simkarte verloren;mobile_sim_acquire
+esim runterladen;mobile_sim_acquire
+sim-karte empfangen;mobile_sim_acquire

@@ -35,6 +35,14 @@ def nlu_cluster(
 
 
 @app.command()
+def nlu_cluster_de(
+    port: int = typer.Option(8501, help="Port number"),
+):
+    """Cluster a german text file to look for clusters of intents."""
+    run_streamlit_app("nluclusterde", port=port)
+
+
+@app.command()
 def live_nlu(
     port: int = typer.Option(8501, help="Port number"),
     model_folder: pathlib.Path = typer.Option(
