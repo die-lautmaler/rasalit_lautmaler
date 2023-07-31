@@ -125,7 +125,7 @@ if method == "HF Transformer":
             "dbmdz/bert-base-german-uncased",
             "T-Systems-onsite/cross-en-de-roberta-sentence-transformer",
             "setu4993/smaller-LaBSE",
-            "./sgate-bert"
+            "rasalit/app/nluclusterde/sgate-bert"
         ],
     )
 
