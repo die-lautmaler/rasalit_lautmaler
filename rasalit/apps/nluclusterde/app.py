@@ -1,3 +1,4 @@
+import os.path
 import pathlib
 from io import StringIO
 
@@ -62,6 +63,8 @@ def process_to_IDs_in_sparse_format(sp, sentences):
 #     return message_embeddings
 @st.cache_data()
 def load_hf_model(modelname, texts):
+    print("loading model from", modelname)
+    print(os.path.exists(modelname))
     lang = HFTransformersLanguage(model)
     embset = lang[texts]
     return embset
@@ -125,7 +128,7 @@ if method == "HF Transformer":
             "dbmdz/bert-base-german-uncased",
             "T-Systems-onsite/cross-en-de-roberta-sentence-transformer",
             "setu4993/smaller-LaBSE",
-            "rasalit/app/nluclusterde/sgate-bert"
+            "rasalit/app/nluclusterde/sgate-bert",
         ],
     )
 
@@ -190,6 +193,7 @@ if method == "CountVector SVD":
 if method == "HF Transformer":
     # lang = load_hf_model(model, texts)
     # embset = lang[texts]
+
     embset = load_hf_model(model, texts)
 
 if method == "Gensim":
