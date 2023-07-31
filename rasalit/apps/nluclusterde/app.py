@@ -235,7 +235,7 @@ else:
     p = (
 
         embset.transform(reduction)
-        .plot_interactive_matrix(annot=False, color="intent")
+        .plot_interactive_matrix(annot=False)
         .properties(width=1500, height=1500, title="")
     )
 
