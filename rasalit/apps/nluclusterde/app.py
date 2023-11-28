@@ -124,11 +124,11 @@ if method == "HF Transformer":
     model = st.sidebar.selectbox(
         "HF Model",
         [
+            "./rasalit/apps/nluclusterde/sgate-bert/",
             "dbmdz/german-gpt2",
             "dbmdz/bert-base-german-uncased",
             "T-Systems-onsite/cross-en-de-roberta-sentence-transformer",
             "setu4993/smaller-LaBSE",
-            "./rasalit/apps/nluclusterde/sgate-bert/",
         ],
     )
 
